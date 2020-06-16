@@ -1,0 +1,1 @@
+LAUNCHXL-CC1310.brd

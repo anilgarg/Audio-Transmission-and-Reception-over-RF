@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:rfEasyLinkRx_868MHz_Final_V0,org.eclipse.launchbar.core.descriptorType.default\:rfEasyLinkRx_CC1310_LAUNCHXL_nortos_ccs,org.eclipse.launchbar.core.descriptorType.default\:rfEasyLinkRx_CC1310_LAUNCHXL_nortos_ccs2_SPI,org.eclipse.launchbar.core.descriptorType.default\:rfEasyLinkRx_CC1310_LAUNCHXL_nortos_ccs2_SPI2_868Mhz
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:rfEasyLinkRx_868MHz_Final_V0/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:rfEasyLinkRx_868MHz_Final_V0/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

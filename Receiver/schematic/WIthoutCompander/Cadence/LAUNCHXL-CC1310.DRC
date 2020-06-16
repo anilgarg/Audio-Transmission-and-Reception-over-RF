@@ -1,0 +1,40 @@
+Date and Time : 11/20/15 12:26:06
+
+--------------------------------------------------
+Checking Schematic: CC1310_LaunchPad
+--------------------------------------------------
+Checking Electrical Rules 
+WARNING(ORCAP-1829): Possible pin type conflict U8,1A2  Bidirectional Connected to Power
+                    CC1310_LaunchPad, 3_Debugger Interface  (297.18, 91.44) 
+WARNING(ORCAP-1829): Possible pin type conflict U9,2B1  Bidirectional Connected to Power
+                    CC1310_LaunchPad, 3_Debugger Interface  (271.78, 157.48) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,1A2  Bidirectional Connected to Power
+                    CC1310_LaunchPad, 3_Debugger Interface  (297.18, 218.44) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,2A2  Bidirectional Connected to Power
+                    CC1310_LaunchPad, 3_Debugger Interface  (297.18, 223.52) 
+WARNING(ORCAP-1829): Possible pin type conflict U10,2B2  Bidirectional Connected to Power
+                    CC1310_LaunchPad, 3_Debugger Interface  (271.78, 223.52) 
+WARNING(ORCAP-1829): Possible pin type conflict CR8,GND  Power Connected to Bidirectional
+                    CC1310_LaunchPad, 3_Debugger Interface  (48.26, 236.22) 
+WARNING(ORCAP-1829): Possible pin type conflict U1,VSS  Power Connected to Bidirectional
+                    CC1310_LaunchPad, 1_CC1310RF  (93.98, 106.68) 
+WARNING(ORCAP-1829): Possible pin type conflict Y2,4  Power Connected to Bidirectional
+                    CC1310_LaunchPad, 1_CC1310RF  (137.16, 133.35) 
+WARNING(ORCAP-1829): Possible pin type conflict Y2,2  Power Connected to Bidirectional
+                    CC1310_LaunchPad, 1_CC1310RF  (132.08, 133.35) 
+WARNING(ORCAP-1829): Possible pin type conflict P11,2  Power Connected to Bidirectional
+                    CC1310_LaunchPad, 1_CC1310RF  (262.89, 59.69) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,OSC1  Output Connected to Bidirectional
+                    CC1310_LaunchPad, 4_XDS110  (307.34, 200.66) 
+WARNING(ORCAP-1829): Possible pin type conflict U5,PB1/USB0VBUS  Bidirectional Connected to Power
+                    CC1310_LaunchPad, 4_XDS110  (170.18, 27.94) 
+WARNING(ORCAP-1829): Possible pin type conflict J6,VCC  Power Connected to Bidirectional
+                    CC1310_LaunchPad, 4_XDS110  (38.10, 231.14) 
+WARNING(ORCAP-1829): Possible pin type conflict U7,IN  Power Connected to Bidirectional
+                    CC1310_LaunchPad, 4_XDS110  (154.94, 231.14) 
+WARNING(ORCAP-1829): Possible pin type conflict U7,IN  Power Connected to Bidirectional
+                    CC1310_LaunchPad, 4_XDS110  (154.94, 233.68) 
+
+Checking For Single Node Nets
+
+Checking For Unconnected Bus Nets

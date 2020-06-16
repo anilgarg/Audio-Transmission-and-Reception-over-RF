@@ -1,0 +1,8 @@
+
+**** Build of configuration Debug for project rfEasyLinkRx_868MHz_Final_V0 ****
+
+"C:\\ti\\ccs901\\ccs\\utils\\bin\\gmake" -k -j 4 all -O 
+ 
+gmake[1]: 'rfEasyLinkRx_868MHz_Final_V0.out' is up to date.
+
+**** Build Finished ****

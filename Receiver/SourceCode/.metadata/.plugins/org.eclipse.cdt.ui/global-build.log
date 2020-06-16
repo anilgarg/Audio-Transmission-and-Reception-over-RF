@@ -1,0 +1,95 @@
+
+**** Clean-only build of configuration Debug for project rfEasyLinkRx_868MHz_Final_V0 ****
+
+"C:\\ti\\ccs901\\ccs\\utils\\bin\\gmake" -k -j 4 clean -O 
+ 
+DEL /F  "rfEasyLinkRx_868MHz_Final_V0.hex"  "rfEasyLinkRx_868MHz_Final_V0.out" 
+DEL /F "CC1310_LAUNCHXL.obj" "CC1310_LAUNCHXL_fxns.obj" "SPI.obj" "adpcm.obj" "ccfg.obj" "main_nortos.obj" "rfEasyLinkRx_nortos.obj" "samples.obj" "easylink\EasyLink_nortos.obj" "easylink\easylink_config.obj" "smartrf_settings\smartrf_settings.obj" "smartrf_settings\smartrf_settings_predefined.obj" 
+DEL /F "CC1310_LAUNCHXL.d" "CC1310_LAUNCHXL_fxns.d" "SPI.d" "adpcm.d" "ccfg.d" "main_nortos.d" "rfEasyLinkRx_nortos.d" "samples.d" "easylink\EasyLink_nortos.d" "easylink\easylink_config.d" "smartrf_settings\smartrf_settings.d" "smartrf_settings\smartrf_settings_predefined.d" 
+Finished clean
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project rfEasyLinkRx_868MHz_Final_V0 ****
+
+"C:\\ti\\ccs901\\ccs\\utils\\bin\\gmake" -k -j 4 all -O 
+ 
+Building file: "../SPI.c"
+Invoking: ARM Compiler
+"C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/bin/armcl" -mv7M3 --code_state=16 --float_support=vfplib -me --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/drivers/utils" --include_path="E:/iitb_study/mtp/cc1310/software/MTP_Phase_2 _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos/posix" --include_path="C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include" --define=DeviceFamily_CC13X0 --define=CCFG_FORCE_VDDR_HH=0 --define=SUPPORT_PHY_CUSTOM --define=SUPPORT_PHY_50KBPS2GFSK --define=SUPPORT_PHY_625BPSLRM --define=SUPPORT_PHY_5KBPSSLLR -g --diag_warning=225 --diag_warning=255 --diag_wrap=off --display_error_number --gen_func_subsections=on --preproc_with_compile --preproc_dependency="SPI.d_raw"  "../SPI.c"
+Finished building: "../SPI.c"
+ 
+Building file: "../adpcm.c"
+Invoking: ARM Compiler
+"C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/bin/armcl" -mv7M3 --code_state=16 --float_support=vfplib -me --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/drivers/utils" --include_path="E:/iitb_study/mtp/cc1310/software/MTP_Phase_2 _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos/posix" --include_path="C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include" --define=DeviceFamily_CC13X0 --define=CCFG_FORCE_VDDR_HH=0 --define=SUPPORT_PHY_CUSTOM --define=SUPPORT_PHY_50KBPS2GFSK --define=SUPPORT_PHY_625BPSLRM --define=SUPPORT_PHY_5KBPSSLLR -g --diag_warning=225 --diag_warning=255 --diag_wrap=off --display_error_number --gen_func_subsections=on --preproc_with_compile --preproc_dependency="adpcm.d_raw"  "../adpcm.c"
+Finished building: "../adpcm.c"
+ 
+Building file: "../CC1310_LAUNCHXL_fxns.c"
+Invoking: ARM Compiler
+"C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/bin/armcl" -mv7M3 --code_state=16 --float_support=vfplib -me --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/drivers/utils" --include_path="E:/iitb_study/mtp/cc1310/software/MTP_Phase_2 _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos/posix" --include_path="C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include" --define=DeviceFamily_CC13X0 --define=CCFG_FORCE_VDDR_HH=0 --define=SUPPORT_PHY_CUSTOM --define=SUPPORT_PHY_50KBPS2GFSK --define=SUPPORT_PHY_625BPSLRM --define=SUPPORT_PHY_5KBPSSLLR -g --diag_warning=225 --diag_warning=255 --diag_wrap=off --display_error_number --gen_func_subsections=on --preproc_with_compile --preproc_dependency="CC1310_LAUNCHXL_fxns.d_raw"  "../CC1310_LAUNCHXL_fxns.c"
+Finished building: "../CC1310_LAUNCHXL_fxns.c"
+ 
+Building file: "../ccfg.c"
+Invoking: ARM Compiler
+"C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/bin/armcl" -mv7M3 --code_state=16 --float_support=vfplib -me --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/drivers/utils" --include_path="E:/iitb_study/mtp/cc1310/software/MTP_Phase_2 _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos/posix" --include_path="C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include" --define=DeviceFamily_CC13X0 --define=CCFG_FORCE_VDDR_HH=0 --define=SUPPORT_PHY_CUSTOM --define=SUPPORT_PHY_50KBPS2GFSK --define=SUPPORT_PHY_625BPSLRM --define=SUPPORT_PHY_5KBPSSLLR -g --diag_warning=225 --diag_warning=255 --diag_wrap=off --display_error_number --gen_func_subsections=on --preproc_with_compile --preproc_dependency="ccfg.d_raw"  "../ccfg.c"
+Finished building: "../ccfg.c"
+ 
+Building file: "../main_nortos.c"
+Invoking: ARM Compiler
+"C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/bin/armcl" -mv7M3 --code_state=16 --float_support=vfplib -me --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/drivers/utils" --include_path="E:/iitb_study/mtp/cc1310/software/MTP_Phase_2 _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos/posix" --include_path="C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include" --define=DeviceFamily_CC13X0 --define=CCFG_FORCE_VDDR_HH=0 --define=SUPPORT_PHY_CUSTOM --define=SUPPORT_PHY_50KBPS2GFSK --define=SUPPORT_PHY_625BPSLRM --define=SUPPORT_PHY_5KBPSSLLR -g --diag_warning=225 --diag_warning=255 --diag_wrap=off --display_error_number --gen_func_subsections=on --preproc_with_compile --preproc_dependency="main_nortos.d_raw"  "../main_nortos.c"
+Finished building: "../main_nortos.c"
+ 
+Building file: "../samples.c"
+Invoking: ARM Compiler
+"C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/bin/armcl" -mv7M3 --code_state=16 --float_support=vfplib -me --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/drivers/utils" --include_path="E:/iitb_study/mtp/cc1310/software/MTP_Phase_2 _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos/posix" --include_path="C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include" --define=DeviceFamily_CC13X0 --define=CCFG_FORCE_VDDR_HH=0 --define=SUPPORT_PHY_CUSTOM --define=SUPPORT_PHY_50KBPS2GFSK --define=SUPPORT_PHY_625BPSLRM --define=SUPPORT_PHY_5KBPSSLLR -g --diag_warning=225 --diag_warning=255 --diag_wrap=off --display_error_number --gen_func_subsections=on --preproc_with_compile --preproc_dependency="samples.d_raw"  "../samples.c"
+Finished building: "../samples.c"
+ 
+Building file: "../CC1310_LAUNCHXL.c"
+Invoking: ARM Compiler
+"C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/bin/armcl" -mv7M3 --code_state=16 --float_support=vfplib -me --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/drivers/utils" --include_path="E:/iitb_study/mtp/cc1310/software/MTP_Phase_2 _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos/posix" --include_path="C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include" --define=DeviceFamily_CC13X0 --define=CCFG_FORCE_VDDR_HH=0 --define=SUPPORT_PHY_CUSTOM --define=SUPPORT_PHY_50KBPS2GFSK --define=SUPPORT_PHY_625BPSLRM --define=SUPPORT_PHY_5KBPSSLLR -g --diag_warning=225 --diag_warning=255 --diag_wrap=off --display_error_number --gen_func_subsections=on --preproc_with_compile --preproc_dependency="CC1310_LAUNCHXL.d_raw"  "../CC1310_LAUNCHXL.c"
+Finished building: "../CC1310_LAUNCHXL.c"
+ 
+Building file: "../rfEasyLinkRx_nortos.c"
+Invoking: ARM Compiler
+"C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/bin/armcl" -mv7M3 --code_state=16 --float_support=vfplib -me --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/drivers/utils" --include_path="E:/iitb_study/mtp/cc1310/software/MTP_Phase_2 _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos/posix" --include_path="C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include" --define=DeviceFamily_CC13X0 --define=CCFG_FORCE_VDDR_HH=0 --define=SUPPORT_PHY_CUSTOM --define=SUPPORT_PHY_50KBPS2GFSK --define=SUPPORT_PHY_625BPSLRM --define=SUPPORT_PHY_5KBPSSLLR -g --diag_warning=225 --diag_warning=255 --diag_wrap=off --display_error_number --gen_func_subsections=on --preproc_with_compile --preproc_dependency="rfEasyLinkRx_nortos.d_raw"  "../rfEasyLinkRx_nortos.c"
+"../rfEasyLinkRx_nortos.c", line 299: warning #552-D: variable "transferOK" was set but never used
+"../rfEasyLinkRx_nortos.c", line 300: warning #552-D: variable "transactionStatus" was set but never used
+Finished building: "../rfEasyLinkRx_nortos.c"
+ 
+Building file: "../easylink/easylink_config.c"
+Invoking: ARM Compiler
+"C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/bin/armcl" -mv7M3 --code_state=16 --float_support=vfplib -me --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/drivers/utils" --include_path="E:/iitb_study/mtp/cc1310/software/MTP_Phase_2 _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos/posix" --include_path="C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include" --define=DeviceFamily_CC13X0 --define=CCFG_FORCE_VDDR_HH=0 --define=SUPPORT_PHY_CUSTOM --define=SUPPORT_PHY_50KBPS2GFSK --define=SUPPORT_PHY_625BPSLRM --define=SUPPORT_PHY_5KBPSSLLR -g --diag_warning=225 --diag_warning=255 --diag_wrap=off --display_error_number --gen_func_subsections=on --preproc_with_compile --preproc_dependency="easylink/easylink_config.d_raw" --obj_directory="easylink"  "../easylink/easylink_config.c"
+Finished building: "../easylink/easylink_config.c"
+ 
+Building file: "../smartrf_settings/smartrf_settings.c"
+Invoking: ARM Compiler
+"C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/bin/armcl" -mv7M3 --code_state=16 --float_support=vfplib -me --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/drivers/utils" --include_path="E:/iitb_study/mtp/cc1310/software/MTP_Phase_2 _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos/posix" --include_path="C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include" --define=DeviceFamily_CC13X0 --define=CCFG_FORCE_VDDR_HH=0 --define=SUPPORT_PHY_CUSTOM --define=SUPPORT_PHY_50KBPS2GFSK --define=SUPPORT_PHY_625BPSLRM --define=SUPPORT_PHY_5KBPSSLLR -g --diag_warning=225 --diag_warning=255 --diag_wrap=off --display_error_number --gen_func_subsections=on --preproc_with_compile --preproc_dependency="smartrf_settings/smartrf_settings.d_raw" --obj_directory="smartrf_settings"  "../smartrf_settings/smartrf_settings.c"
+Finished building: "../smartrf_settings/smartrf_settings.c"
+ 
+Building file: "../easylink/EasyLink_nortos.c"
+Invoking: ARM Compiler
+"C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/bin/armcl" -mv7M3 --code_state=16 --float_support=vfplib -me --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/drivers/utils" --include_path="E:/iitb_study/mtp/cc1310/software/MTP_Phase_2 _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos/posix" --include_path="C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include" --define=DeviceFamily_CC13X0 --define=CCFG_FORCE_VDDR_HH=0 --define=SUPPORT_PHY_CUSTOM --define=SUPPORT_PHY_50KBPS2GFSK --define=SUPPORT_PHY_625BPSLRM --define=SUPPORT_PHY_5KBPSSLLR -g --diag_warning=225 --diag_warning=255 --diag_wrap=off --display_error_number --gen_func_subsections=on --preproc_with_compile --preproc_dependency="easylink/EasyLink_nortos.d_raw" --obj_directory="easylink"  "../easylink/EasyLink_nortos.c"
+Finished building: "../easylink/EasyLink_nortos.c"
+ 
+Building file: "../smartrf_settings/smartrf_settings_predefined.c"
+Invoking: ARM Compiler
+"C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/bin/armcl" -mv7M3 --code_state=16 --float_support=vfplib -me --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/drivers/utils" --include_path="E:/iitb_study/mtp/cc1310/software/MTP_Phase_2 _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos" --include_path="C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos/posix" --include_path="C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include" --define=DeviceFamily_CC13X0 --define=CCFG_FORCE_VDDR_HH=0 --define=SUPPORT_PHY_CUSTOM --define=SUPPORT_PHY_50KBPS2GFSK --define=SUPPORT_PHY_625BPSLRM --define=SUPPORT_PHY_5KBPSSLLR -g --diag_warning=225 --diag_warning=255 --diag_wrap=off --display_error_number --gen_func_subsections=on --preproc_with_compile --preproc_dependency="smartrf_settings/smartrf_settings_predefined.d_raw" --obj_directory="smartrf_settings"  "../smartrf_settings/smartrf_settings_predefined.c"
+Finished building: "../smartrf_settings/smartrf_settings_predefined.c"
+ 
+Building target: "rfEasyLinkRx_868MHz_Final_V0.out"
+Invoking: ARM Linker
+"C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/bin/armcl" -mv7M3 --code_state=16 --float_support=vfplib -me --define=DeviceFamily_CC13X0 --define=CCFG_FORCE_VDDR_HH=0 --define=SUPPORT_PHY_CUSTOM --define=SUPPORT_PHY_50KBPS2GFSK --define=SUPPORT_PHY_625BPSLRM --define=SUPPORT_PHY_5KBPSSLLR -g --diag_warning=225 --diag_warning=255 --diag_wrap=off --display_error_number --gen_func_subsections=on -z -m"rfEasyLinkRx_868MHz_Final_V0.map" -i"C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/drivers" -i"C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source" -i"C:/ti/simplelink_cc13x0_sdk_3_20_00_23/kernel/nortos" -i"C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/lib" --diag_wrap=off --display_error_number --warn_sections --xml_link_info="rfEasyLinkRx_868MHz_Final_V0_linkInfo.xml" --rom_model -o "rfEasyLinkRx_868MHz_Final_V0.out" "./CC1310_LAUNCHXL.obj" "./CC1310_LAUNCHXL_fxns.obj" "./SPI.obj" "./adpcm.obj" "./ccfg.obj" "./main_nortos.obj" "./rfEasyLinkRx_nortos.obj" "./samples.obj" "./easylink/EasyLink_nortos.obj" "./easylink/easylink_config.obj" "./smartrf_settings/smartrf_settings.obj" "./smartrf_settings/smartrf_settings_predefined.obj" "../CC1310_LAUNCHXL_NoRTOS.cmd"  -l"ti/display/lib/display.aem3" -l"ti/grlib/lib/ccs/m3/grlib.a" -l"third_party/spiffs/lib/ccs/m3/spiffs_cc26xx.a" -l"ti/drivers/rf/lib/rf_multiMode_cc13x0.aem3" -l"ti/drivers/lib/drivers_cc13x0.aem3" -l"lib/nortos_cc13x0.aem3" -l"ti/devices/cc13x0/driverlib/bin/ccs/driverlib.lib" -llibc.a 
+<Linking>
+Finished building target: "rfEasyLinkRx_868MHz_Final_V0.out"
+ 
+
+**** Build Finished ****
+
+**** Build of configuration Debug for project rfEasyLinkRx_868MHz_Final_V0 ****
+
+"C:\\ti\\ccs901\\ccs\\utils\\bin\\gmake" -k -j 4 all -O 
+ 
+gmake[1]: 'rfEasyLinkRx_868MHz_Final_V0.out' is up to date.
+
+**** Build Finished ****
