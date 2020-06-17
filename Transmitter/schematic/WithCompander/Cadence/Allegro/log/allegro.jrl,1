@@ -1,0 +1,3306 @@
+\t (00:00:03) allegro 16.6 S019 (v16-6-112BG) Windows 32
+\t (00:00:03)     Journal start - Wed Jan 20 12:40:20 2016
+\t (00:00:03)         Host=LTA0190588A User=a0190588 Pid=37748 CPUs=4
+\t (00:00:03) 
+   (00:00:03) Loading axlcore.cxt 
+\t (00:00:08) Opening existing design...
+\d (00:00:08) Database opened: C:/kht/work/CC1310_launchpad/LAUNCHPAD_CC1310_1_3_0/Cadence/Allegro/LAUNCHXL-CC1310.brd
+\i (00:00:09) trapsize 103
+\i (00:00:09) trapsize 100
+\i (00:00:09) trapsize 103
+\i (00:00:09) trapsize 104
+\i (00:00:09) trapsize 104
+\i (00:00:09) generaledit 
+\i (00:05:09) zoom in 
+\i (00:05:09) setwindow pcb
+\i (00:05:09) zoom in 225.517 229.043
+\i (00:05:09) trapsize 52
+\i (00:05:09) zoom in 
+\i (00:05:09) setwindow pcb
+\i (00:05:09) zoom in 225.538 229.043
+\i (00:05:09) trapsize 26
+\i (00:05:10) zoom in 
+\i (00:05:10) setwindow pcb
+\i (00:05:10) zoom in 225.329 229.284
+\i (00:05:10) trapsize 13
+\i (00:05:11) zoom out 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom out 225.329 229.283
+\i (00:05:11) trapsize 26
+\i (00:05:11) zoom in 
+\i (00:05:11) setwindow pcb
+\i (00:05:11) zoom in 225.330 229.285
+\i (00:05:11) trapsize 13
+\i (00:05:12) zoom out 
+\i (00:05:12) setwindow pcb
+\i (00:05:12) zoom out 225.508 229.013
+\i (00:05:12) trapsize 26
+\i (00:05:13) roam y -96 
+\i (00:05:13) roam y -96
+\i (00:05:14) roam y 96 
+\i (00:05:14) roam y 96
+\i (00:05:14) roam x 96 
+\i (00:05:14) roam x 96
+\i (00:05:14) roam y -96 
+\i (00:05:14) roam y -96
+\i (00:05:15) roam x -96 
+\i (00:05:15) roam x -96
+\i (00:05:18) pick grid 225.184 228.175
+\t (00:05:18) last pick:  225.200  228.200
+\i (00:05:23) setwindow form.find
+\i (00:05:23) FORM find vias YES 
+\i (00:05:25) setwindow pcb
+\i (00:05:25) drag_start grid 225.100 229.543
+\i (00:05:25) move 
+\t (00:05:25) last pick:  225.100  229.600
+\t (00:05:25) Moving C14 / CAPACITOR_CAPC1005X60B2N_3PF / CAPC1005X60B2N.
+\t (00:05:25) Pick new location for the element(s).
+\i (00:05:27) drag_stop grid 225.100 229.480
+\i (00:05:28) generaledit 
+\i (00:05:31) drag_start grid 225.090 228.175
+\i (00:05:31) slide 
+\t (00:05:32) Waiting for the destination pick.
+\i (00:05:32) drag_stop grid 225.111 227.872
+\t (00:05:32) No DRC errors detected.
+\i (00:05:32) generaledit 
+\i (00:05:33) drag_start grid 224.557 228.217
+\i (00:05:33) slide 
+\t (00:05:34) Waiting for the destination pick.
+\i (00:05:34) drag_stop grid 224.578 228.050
+\t (00:05:34) No DRC errors detected.
+\i (00:05:34) generaledit 
+\i (00:05:38) zoom out 
+\i (00:05:38) setwindow pcb
+\i (00:05:38) zoom out 225.904 228.102
+\i (00:05:38) trapsize 52
+\i (00:05:38) zoom out 
+\i (00:05:38) setwindow pcb
+\i (00:05:38) zoom out 225.904 228.102
+\i (00:05:38) trapsize 104
+\i (00:05:38) roam y -96 
+\i (00:05:38) roam y -96
+\i (00:05:39) roam y -96 
+\i (00:05:39) roam y -96
+\i (00:05:39) roam y -96 
+\i (00:05:39) roam y -96
+\i (00:05:39) roam y -96 
+\i (00:05:39) roam y -96
+\i (00:05:39) roam y -96 
+\i (00:05:39) roam y -96
+\i (00:05:39) roam y -96 
+\i (00:05:39) roam y -96
+\i (00:05:39) roam y -96 
+\i (00:05:39) roam y -96
+\i (00:05:39) roam y -96 
+\i (00:05:39) roam y -96
+\i (00:05:39) roam y -96 
+\i (00:05:39) roam y -96
+\i (00:05:39) roam y -96 
+\i (00:05:39) roam y -96
+\i (00:05:39) roam y -96 
+\i (00:05:39) roam y -96
+\i (00:05:39) roam y -96 
+\i (00:05:39) roam y -96
+\i (00:05:39) roam y -96 
+\i (00:05:39) roam y -96
+\i (00:05:40) roam y -96 
+\i (00:05:40) roam y -96
+\i (00:05:40) roam x -96 
+\i (00:05:40) roam x -96
+\i (00:05:40) roam y -96 
+\i (00:05:40) roam y -96
+\i (00:05:41) zoom in 
+\i (00:05:41) setwindow pcb
+\i (00:05:41) zoom in 221.878 263.001
+\i (00:05:41) trapsize 52
+\i (00:05:41) zoom in 
+\i (00:05:41) setwindow pcb
+\i (00:05:41) zoom in 221.001 262.396
+\i (00:05:41) trapsize 26
+\i (00:05:42) roam y 96 
+\i (00:05:42) roam y 96
+\i (00:05:42) roam x -96 
+\i (00:05:42) roam x -96
+\i (00:05:42) roam y 96 
+\i (00:05:42) roam y 96
+\i (00:05:42) roam x -96 
+\i (00:05:43) roam x -96
+\i (00:05:43) roam y 96 
+\i (00:05:43) roam y 96
+\i (00:05:45) roam x 96 
+\i (00:05:45) roam x 96
+\i (00:05:45) roam x 96 
+\i (00:05:45) roam x 96
+\i (00:05:45) roam x 96 
+\i (00:05:45) roam x 96
+\i (00:05:46) zoom out 
+\i (00:05:46) setwindow pcb
+\i (00:05:46) zoom out 221.497 260.889
+\i (00:05:46) trapsize 52
+\i (00:05:50) roam x 96 
+\i (00:05:50) roam x 96
+\i (00:05:50) roam x 96 
+\i (00:05:50) roam x 96
+\i (00:05:50) roam x 96 
+\i (00:05:50) roam x 96
+\i (00:05:51) roam x 96 
+\i (00:05:51) roam x 96
+\i (00:05:52) roam x 96 
+\i (00:05:52) roam x 96
+\i (00:05:59) drag_start grid 229.559 260.221
+\i (00:05:59) slide 
+\t (00:05:59) Waiting for the destination pick.
+\i (00:06:00) drag_stop grid 229.684 260.117
+\t (00:06:00) No DRC errors detected.
+\i (00:06:01) generaledit 
+\i (00:06:02) setwindow form.vf_vis
+\i (00:06:02) FORM vf_vis 3 all_colorvisible YES 
+\i (00:06:04) FORM vf_vis 4 all_colorvisible YES 
+\i (00:06:04) FORM vf_vis 4 all_colorvisible NO 
+\i (00:06:05) FORM vf_vis 3 all_colorvisible NO 
+\i (00:06:05) FORM vf_vis 2 all_colorvisible YES 
+\i (00:06:06) FORM vf_vis 2 all_colorvisible NO 
+\i (00:06:07) FORM vf_vis 3 all_colorvisible YES 
+\i (00:06:08) setwindow pcb
+\i (00:06:08) roam x -96 
+\i (00:06:08) roam x -96
+\i (00:06:09) roam x -96 
+\i (00:06:09) roam x -96
+\i (00:06:09) roam x -96 
+\i (00:06:09) roam x -96
+\i (00:06:09) roam x -96 
+\i (00:06:09) roam x -96
+\i (00:06:10) roam y 96 
+\i (00:06:10) roam y 96
+\i (00:06:10) roam y 96 
+\i (00:06:10) roam y 96
+\i (00:06:10) roam y 96 
+\i (00:06:10) roam y 96
+\i (00:06:10) roam y 96 
+\i (00:06:10) roam y 96
+\i (00:06:10) roam y 96 
+\i (00:06:10) roam y 96
+\i (00:06:10) roam y 96 
+\i (00:06:10) roam y 96
+\i (00:06:10) roam y 96 
+\i (00:06:10) roam y 96
+\i (00:06:10) roam y 96 
+\i (00:06:10) roam y 96
+\i (00:06:10) roam y 96 
+\i (00:06:10) roam y 96
+\i (00:06:10) roam y 96 
+\i (00:06:10) roam y 96
+\i (00:06:10) roam y 96 
+\i (00:06:10) roam y 96
+\i (00:06:10) roam y 96 
+\i (00:06:10) roam y 96
+\i (00:06:10) roam y 96 
+\i (00:06:10) roam y 96
+\i (00:06:10) roam y 96 
+\i (00:06:10) roam y 96
+\i (00:06:11) roam y 96 
+\i (00:06:11) roam y 96
+\i (00:06:11) roam y 96 
+\i (00:06:11) roam y 96
+\i (00:06:11) roam y 96 
+\i (00:06:11) roam y 96
+\i (00:06:11) roam y 96 
+\i (00:06:11) roam y 96
+\i (00:06:11) roam y 96 
+\i (00:06:11) roam y 96
+\i (00:06:11) roam y 96 
+\i (00:06:11) roam y 96
+\i (00:06:11) roam y 96 
+\i (00:06:11) roam y 96
+\i (00:06:11) roam y 96 
+\i (00:06:11) roam y 96
+\i (00:06:11) roam y 96 
+\i (00:06:11) roam y 96
+\i (00:06:11) roam y 96 
+\i (00:06:11) roam y 96
+\i (00:06:11) roam y 96 
+\i (00:06:11) roam y 96
+\i (00:06:11) roam y 96 
+\i (00:06:11) roam y 96
+\i (00:06:11) roam y 96 
+\i (00:06:11) roam y 96
+\i (00:06:11) roam y 96 
+\i (00:06:11) roam y 96
+\i (00:06:11) roam y 96 
+\i (00:06:11) roam y 96
+\i (00:06:11) roam y 96 
+\i (00:06:11) roam y 96
+\i (00:06:11) roam y 96 
+\i (00:06:11) roam y 96
+\i (00:06:12) roam y 96 
+\i (00:06:12) roam y 96
+\i (00:06:12) roam y 96 
+\i (00:06:12) roam y 96
+\i (00:06:12) roam y 96 
+\i (00:06:12) roam y 96
+\i (00:06:12) roam x 96 
+\i (00:06:12) roam x 96
+\i (00:06:12) roam y -96 
+\i (00:06:12) roam y -96
+\i (00:06:12) roam y -96 
+\i (00:06:12) roam y -96
+\i (00:06:13) zoom in 
+\i (00:06:13) setwindow pcb
+\i (00:06:13) zoom in 221.728 228.055
+\i (00:06:13) trapsize 26
+\i (00:06:13) roam x 96 
+\i (00:06:13) roam x 96
+\i (00:06:13) roam y -96 
+\i (00:06:13) roam y -96
+\i (00:06:13) roam y -96 
+\i (00:06:13) roam y -96
+\i (00:06:14) roam x 96 
+\i (00:06:14) roam x 96
+\i (00:06:14) roam x 96 
+\i (00:06:14) roam x 96
+\i (00:06:16) roam x 96 
+\i (00:06:16) roam x 96
+\i (00:06:16) roam y -96 
+\i (00:06:16) roam y -96
+\i (00:06:16) roam y -96 
+\i (00:06:16) roam y -96
+\i (00:06:19) setwindow form.find
+\i (00:06:19) FORM find cline_segs YES 
+\i (00:06:22) setwindow pcb
+\i (00:06:22) roam y -96 
+\i (00:06:22) roam y -96
+\i (00:06:22) roam y -96 
+\i (00:06:22) roam y -96
+\i (00:06:22) roam y -96 
+\i (00:06:22) roam y -96
+\i (00:06:23) roam y -96 
+\i (00:06:23) roam y -96
+\i (00:06:25) prepopup 224.275 231.709
+\i (00:06:27) pop dyn_option_select '@:@Change Width...' 
+\i (00:06:27) change width 
+\i (00:06:30) setwindow form.chgwidth
+\i (00:06:30) FORM chgwidth chgwidth 0.400 
+\i (00:06:30) FORM chgwidth done  
+\t (00:06:30) Changed 1 items out of 1 items found.
+\i (00:06:30) setwindow pcb
+\i (00:06:30) generaledit 
+\i (00:06:31) zoom out 1 
+\i (00:06:31) setwindow pcb
+\i (00:06:31) zoom out 225.173 232.012
+\i (00:06:31) trapsize 52
+\i (00:06:32) zoom in 1 
+\i (00:06:32) setwindow pcb
+\i (00:06:32) zoom in 225.173 232.012
+\i (00:06:32) trapsize 26
+\i (00:06:33) roam y 96 
+\i (00:06:33) roam y 96
+\i (00:06:33) roam y 96 
+\i (00:06:33) roam y 96
+\i (00:06:34) drag_start grid 225.601 230.744
+\i (00:06:34) slide 
+\t (00:06:35) Waiting for the destination pick.
+\i (00:06:37) drag_stop grid 225.643 230.849
+\t (00:06:37) No DRC errors detected.
+\i (00:06:37) generaledit 
+\i (00:06:39) save 
+\i (00:06:41) fillin yes 
+\i (00:06:42) generaledit 
+\i (00:06:42) roam y 96 
+\i (00:06:42) roam y 96
+\i (00:06:42) roam y 96 
+\i (00:06:42) roam y 96
+\i (00:06:42) roam y 96 
+\i (00:06:42) roam y 96
+\i (00:06:44) roam x 96 
+\i (00:06:44) roam x 96
+\i (00:06:44) roam y 96 
+\i (00:06:44) roam y 96
+\i (00:06:45) drag_start grid 226.034 229.658
+\i (00:06:45) move 
+\t (00:06:45) last pick:  226.000  229.600
+\t (00:06:45) Moving C15 / CAPACITOR_CAPC1005X60B2N_100PF / CAPC1005X60B2N.
+\t (00:06:45) Pick new location for the element(s).
+\i (00:06:47) drag_stop grid 226.034 229.491
+\i (00:06:47) generaledit 
+\i (00:06:48) pick grid 225.460 229.668
+\t (00:06:48) last pick:  225.500  229.700
+\i (00:06:49) delete 
+\i (00:06:49) generaledit 
+\i (00:06:51) pick grid 224.635 229.533
+\t (00:06:51) last pick:  224.600  229.500
+\i (00:06:52) delete 
+\i (00:06:52) generaledit 
+\i (00:06:54) setwindow form.find
+\i (00:06:54) FORM find symbols NO 
+\i (00:06:55) setwindow pcb
+\i (00:06:55) pick grid 224.959 229.522
+\t (00:06:55) last pick:  225.000  229.500
+\i (00:06:56) delete 
+\i (00:06:56) generaledit 
+\i (00:06:57) setwindow form.find
+\i (00:06:57) FORM find symbols YES 
+\i (00:06:58) setwindow pcb
+\i (00:06:58) pick grid 227.402 229.658
+\t (00:06:58) last pick:  227.400  229.700
+\i (00:06:59) delete 
+\i (00:06:59) generaledit 
+\i (00:06:59) roam x 96 
+\i (00:06:59) roam x 96
+\i (00:06:59) roam x 96 
+\i (00:06:59) roam x 96
+\i (00:07:00) roam x 96 
+\i (00:07:00) roam x 96
+\i (00:07:00) roam x 96 
+\i (00:07:00) roam x 96
+\i (00:07:00) roam x 96 
+\i (00:07:00) roam x 96
+\i (00:07:01) pick grid 229.302 229.397
+\t (00:07:01) last pick:  229.300  229.400
+\i (00:07:01) delete 
+\i (00:07:02) generaledit 
+\i (00:07:02) pick grid 229.219 229.595
+\t (00:07:02) last pick:  229.200  229.600
+\i (00:07:02) delete 
+\i (00:07:02) generaledit 
+\i (00:07:03) pick grid 229.188 229.616
+\t (00:07:03) last pick:  229.200  229.600
+\i (00:07:03) delete 
+\i (00:07:03) generaledit 
+\i (00:07:04) pick grid 229.386 229.397
+\t (00:07:04) last pick:  229.400  229.400
+\i (00:07:04) delete 
+\i (00:07:04) generaledit 
+\i (00:07:05) roam x -96 
+\i (00:07:05) roam x -96
+\i (00:07:05) roam x -96 
+\i (00:07:05) roam x -96
+\i (00:07:05) roam x -96 
+\i (00:07:05) roam x -96
+\i (00:07:06) roam x -96 
+\i (00:07:06) roam x -96
+\i (00:07:06) roam x -96 
+\i (00:07:06) roam x -96
+\i (00:07:08) drag_start grid 225.032 229.481
+\i (00:07:08) move 
+\t (00:07:08) last pick:  225.100  229.500
+\t (00:07:08) Moving C14 / CAPACITOR_CAPC1005X60B2N_3PF / CAPC1005X60B2N.
+\t (00:07:08) Pick new location for the element(s).
+\i (00:07:09) drag_stop grid 225.063 229.460
+\i (00:07:10) generaledit 
+\i (00:07:11) drag_start grid 225.063 229.460
+\i (00:07:11) move 
+\t (00:07:11) last pick:  225.100  229.500
+\t (00:07:11) Moving C14 / CAPACITOR_CAPC1005X60B2N_3PF / CAPC1005X60B2N.
+\t (00:07:11) Pick new location for the element(s).
+\i (00:07:13) drag_stop grid 225.063 229.449
+\i (00:07:13) generaledit 
+\i (00:07:14) drag_start grid 226.034 229.554
+\i (00:07:14) move 
+\t (00:07:14) last pick:  226.000  229.500
+\t (00:07:14) Moving C15 / CAPACITOR_CAPC1005X60B2N_100PF / CAPC1005X60B2N.
+\t (00:07:14) Pick new location for the element(s).
+\i (00:07:15) drag_stop grid 226.024 229.418
+\i (00:07:15) generaledit 
+\i (00:07:16) roam x 96 
+\i (00:07:16) roam x 96
+\i (00:07:16) roam x 96 
+\i (00:07:16) roam x 96
+\i (00:07:16) roam x 96 
+\i (00:07:16) roam x 96
+\i (00:07:16) roam x 96 
+\i (00:07:16) roam x 96
+\i (00:07:16) roam x 96 
+\i (00:07:16) roam x 96
+\i (00:07:17) roam x -96 
+\i (00:07:17) roam x -96
+\i (00:07:17) roam x -96 
+\i (00:07:17) roam x -96
+\i (00:07:18) roam x -96 
+\i (00:07:18) roam x -96
+\i (00:07:18) roam x -96 
+\i (00:07:18) roam x -96
+\i (00:07:20) add connect 
+\t (00:07:20) Selected item not valid for current operation, ignored: Symbol "C15"
+\t (00:07:20) No valid items selected for the current operation, exiting.
+\i (00:07:20) generaledit 
+\i (00:07:22) pick grid 227.767 229.846
+\t (00:07:22) last pick:  227.800  229.800
+\i (00:07:23) add connect 
+\e (00:07:23) ERROR(SPMHA1-161): Cannot open the design database file ... run standalone dbdoctor on the file.
+\w (00:07:23) WARNING(SPMHDB-95): Padstack VIA_0_2MM not found. Purging it from DEFAULT constraint set will eliminate warning.
+\t (00:07:24) Pick first element.
+\i (00:07:33) setwindow form.mini
+\i (00:07:33) FORM mini acon_line_width 0.4 
+\i (00:07:35) setwindow pcb
+\i (00:07:35) pick grid 224.572 229.449
+\t (00:07:35) last pick:  224.600  229.400
+\t (00:07:35) last pick:  224.200  229.476
+\i (00:07:36) mouse_pos 224.854 229.334
+\i (00:07:36) mouse_pos 224.416 229.313
+\i (00:07:40) oops 
+\t (00:07:40) last pick:  224.600  229.400
+\t (00:07:40) Pick first element.
+\i (00:07:41) pick grid 225.021 229.397
+\t (00:07:41) last pick:  225.000  229.400
+\t (00:07:41) last pick:  225.100  229.400
+\t (00:07:41) Target Symbol Pin is defined on TOP.
+\t (00:07:41) last pick:  225.100  229.400
+\i (00:07:41) mouse_pos 224.436 229.428
+\i (00:07:43) pick grid 224.342 229.439
+\t (00:07:43) last pick:  224.300  229.400
+\t (00:07:43) No DRC errors detected.
+\t (00:07:43) Pick first element.
+\i (00:07:44) done 
+\i (00:07:44) generaledit 
+\i (00:07:46) drag_start grid 224.624 229.376
+\i (00:07:46) slide 
+\t (00:07:46) Waiting for the destination pick.
+\i (00:07:47) drag_stop grid 224.645 228.990
+\t (00:07:47) No DRC errors detected.
+\i (00:07:47) generaledit 
+\i (00:07:49) pick grid 225.157 229.366
+\t (00:07:49) last pick:  225.200  229.400
+\i (00:07:50) add connect 
+\t (00:07:50) Selected item not valid for current operation, ignored: Symbol "C14"
+\t (00:07:50) No valid items selected for the current operation, exiting.
+\i (00:07:50) generaledit 
+\i (00:07:51) pick grid 225.919 229.407
+\t (00:07:51) last pick:  225.900  229.400
+\i (00:07:52) pick grid 226.650 228.415
+\t (00:07:52) last pick:  226.700  228.400
+\i (00:07:53) add connect 
+\t (00:07:53) Pick first element.
+\i (00:07:54) pick grid 226.034 229.334
+\t (00:07:54) last pick:  226.000  229.300
+\t (00:07:54) last pick:  226.000  229.400
+\t (00:07:54) Target Symbol Pin is defined on TOP.
+\t (00:07:54) last pick:  226.000  229.400
+\i (00:07:54) mouse_pos 225.345 229.407
+\i (00:07:55) pick grid 225.240 229.418
+\t (00:07:55) last pick:  225.200  229.400
+\t (00:07:55) No DRC errors detected.
+\t (00:07:55) Pick first element.
+\i (00:07:56) roam x 96 
+\i (00:07:56) roam x 96
+\i (00:07:56) roam x 96 
+\i (00:07:56) roam x 96
+\i (00:07:56) roam x 96 
+\i (00:07:56) roam x 96
+\i (00:07:57) roam x 96 
+\i (00:07:57) roam x 96
+\i (00:07:58) pick grid 227.057 229.470
+\t (00:07:58) last pick:  227.100  229.500
+\t (00:07:58) Pick first element.
+\t (00:07:58) last pick:  226.924  229.400
+\t (00:07:58) Target Vertical Line Segment is defined on TOP.
+\t (00:07:58) last pick:  226.924  229.400
+\i (00:07:59) mouse_pos 229.355 229.105
+\i (00:07:59) mouse_pos 229.344 229.115
+\i (00:07:59) mouse_pos 229.365 229.126
+\i (00:08:00) pick grid 229.553 229.063
+\t (00:08:00) last pick:  229.600  229.100
+\t (00:08:00) No DRC errors detected.
+\t (00:08:00) Pick first element.
+\i (00:08:00) done 
+\i (00:08:01) generaledit 
+\i (00:08:02) drag_start grid 227.496 229.042
+\i (00:08:02) slide 
+\t (00:08:02) Waiting for the destination pick.
+\i (00:08:03) drag_stop grid 227.496 228.833
+\t (00:08:03) No DRC errors detected.
+\i (00:08:03) generaledit 
+\i (00:08:04) drag_start grid 227.966 229.481
+\i (00:08:04) slide 
+\t (00:08:04) Waiting for the destination pick.
+\i (00:08:06) drag_stop grid 227.987 229.366
+\t (00:08:06) No DRC errors detected.
+\i (00:08:07) generaledit 
+\i (00:08:08) roam x -96 
+\i (00:08:08) roam x -96
+\i (00:08:08) roam x -96 
+\i (00:08:09) roam x -96
+\i (00:08:09) roam x -96 
+\i (00:08:09) roam x -96
+\i (00:08:09) roam x -96 
+\i (00:08:09) roam x -96
+\i (00:08:09) roam x -96 
+\i (00:08:09) roam x -96
+\i (00:08:12) drag_start grid 225.658 228.008
+\i (00:08:12) slide 
+\t (00:08:12) Waiting for the destination pick.
+\i (00:08:14) drag_stop grid 225.637 228.060
+\t (00:08:14) No DRC errors detected.
+\i (00:08:14) generaledit 
+\i (00:08:17) zoom in 
+\i (00:08:17) setwindow pcb
+\i (00:08:17) zoom in 224.750 229.021
+\i (00:08:17) trapsize 13
+\i (00:08:18) drag_start grid 224.645 229.459
+\i (00:08:18) slide 
+\t (00:08:18) Waiting for the destination pick.
+\i (00:08:20) drag_stop grid 224.630 229.324
+\t (00:08:20) No DRC errors detected.
+\i (00:08:20) generaledit 
+\i (00:08:21) pick grid 225.491 229.360
+\t (00:08:21) last pick:  225.500  229.400
+\i (00:08:21) pick grid 225.580 229.428
+\t (00:08:21) last pick:  225.600  229.400
+\i (00:08:22) pick grid 225.663 229.428
+\t (00:08:22) last pick:  225.700  229.400
+\i (00:08:22) drag_start grid 225.653 229.485
+\i (00:08:22) slide 
+\t (00:08:23) Waiting for the destination pick.
+\t (00:08:23) New cline would result in DRC error(s); retaining old cline.
+\i (00:08:24) drag_stop grid 225.590 229.094
+\t (00:08:24) No DRC errors detected.
+\i (00:08:24) generaledit 
+\i (00:08:25) zoom in 
+\i (00:08:25) setwindow pcb
+\i (00:08:25) zoom in 225.590 229.177
+\i (00:08:25) trapsize 7
+\i (00:08:27) pick grid 225.204 229.011
+\t (00:08:27) last pick:  225.200  229.000
+\i (00:08:30) zoom out 
+\i (00:08:30) setwindow pcb
+\i (00:08:30) zoom out 225.204 229.011
+\i (00:08:30) trapsize 13
+\i (00:08:30) zoom out 
+\i (00:08:30) setwindow pcb
+\i (00:08:30) zoom out 225.204 229.010
+\i (00:08:30) trapsize 26
+\i (00:08:30) zoom out 
+\i (00:08:30) setwindow pcb
+\i (00:08:30) zoom out 225.204 229.010
+\i (00:08:30) trapsize 52
+\i (00:08:32) roam x 96 
+\i (00:08:32) roam x 96
+\i (00:08:32) roam y 96 
+\i (00:08:32) roam y 96
+\i (00:08:33) roam y 96 
+\i (00:08:33) roam y 96
+\i (00:08:33) roam x 96 
+\i (00:08:33) roam x 96
+\i (00:08:33) roam y 96 
+\i (00:08:33) roam y 96
+\i (00:08:34) roam x 96 
+\i (00:08:34) roam x 96
+\i (00:08:34) roam x 96 
+\i (00:08:34) roam x 96
+\i (00:08:34) roam x 96 
+\i (00:08:34) roam x 96
+\i (00:08:35) roam x 96 
+\i (00:08:35) roam x 96
+\i (00:08:35) roam x 96 
+\i (00:08:35) roam x 96
+\i (00:08:35) roam x 96 
+\i (00:08:35) roam x 96
+\i (00:08:36) roam x -96 
+\i (00:08:36) roam x -96
+\i (00:08:36) roam x -96 
+\i (00:08:36) roam x -96
+\i (00:08:39) save 
+\i (00:08:41) fillin yes 
+\i (00:08:41) generaledit 
+\i (00:08:41) zoom out 
+\i (00:08:41) setwindow pcb
+\i (00:08:41) zoom out 233.302 224.910
+\i (00:08:41) trapsize 104
+\i (00:08:42) zoom out 
+\i (00:08:42) setwindow pcb
+\i (00:08:42) zoom out 233.301 224.909
+\i (00:08:42) trapsize 209
+\i (00:08:42) roam y 96 
+\i (00:08:42) roam y 96
+\i (00:08:42) roam x 96 
+\i (00:08:42) roam x 96
+\i (00:08:43) roam y 96 
+\i (00:08:43) roam y 96
+\i (00:08:43) roam y 96 
+\i (00:08:43) roam y 96
+\i (00:08:43) roam y 96 
+\i (00:08:43) roam y 96
+\i (00:08:43) roam y 96 
+\i (00:08:44) roam y 96
+\i (00:08:44) roam y 96 
+\i (00:08:44) roam y 96
+\i (00:08:44) zoom out 
+\i (00:08:44) setwindow pcb
+\i (00:08:44) zoom out 237.277 200.832
+\i (00:08:44) trapsize 417
+\i (00:08:44) roam y -96 
+\i (00:08:44) roam y -96
+\i (00:08:45) roam y -96 
+\i (00:08:45) roam y -96
+\i (00:08:45) roam y -96 
+\i (00:08:45) roam y -96
+\i (00:08:45) roam y -96 
+\i (00:08:45) roam y -96
+\i (00:08:45) roam y -96 
+\i (00:08:45) roam y -96
+\i (00:08:45) roam y -96 
+\i (00:08:45) roam y -96
+\i (00:08:45) zoom in 
+\i (00:08:45) setwindow pcb
+\i (00:08:45) zoom in 237.277 248.925
+\i (00:08:45) trapsize 209
+\i (00:08:46) zoom in 
+\i (00:08:46) setwindow pcb
+\i (00:08:46) zoom in 237.277 248.925
+\i (00:08:46) trapsize 104
+\i (00:08:46) roam y 96 
+\i (00:08:46) roam y 96
+\i (00:08:47) roam y 96 
+\i (00:08:47) roam y 96
+\i (00:08:47) roam y 96 
+\i (00:08:47) roam y 96
+\i (00:08:47) roam y 96 
+\i (00:08:47) roam y 96
+\i (00:08:47) roam y 96 
+\i (00:08:47) roam y 96
+\i (00:08:47) roam y 96 
+\i (00:08:47) roam y 96
+\i (00:08:47) roam y 96 
+\i (00:08:47) roam y 96
+\i (00:08:47) roam y 96 
+\i (00:08:47) roam y 96
+\i (00:08:47) roam y -96 
+\i (00:08:48) roam y -96
+\i (00:08:48) roam y -96 
+\i (00:08:48) roam y -96
+\i (00:08:48) roam y 96 
+\i (00:08:48) roam y 96
+\i (00:08:49) roam y 96 
+\i (00:08:49) roam y 96
+\i (00:08:49) roam y 96 
+\i (00:08:49) roam y 96
+\i (00:08:49) roam y 96 
+\i (00:08:49) roam y 96
+\i (00:08:49) roam y 96 
+\i (00:08:49) roam y 96
+\i (00:08:49) roam y 96 
+\i (00:08:49) roam y 96
+\i (00:08:49) roam y 96 
+\i (00:08:49) roam y 96
+\i (00:08:50) roam y -96 
+\i (00:08:50) roam y -96
+\i (00:08:50) roam y -96 
+\i (00:08:50) roam y -96
+\i (00:08:50) roam y -96 
+\i (00:08:50) roam y -96
+\i (00:08:50) roam y -96 
+\i (00:08:50) roam y -96
+\i (00:08:50) roam y -96 
+\i (00:08:50) roam y -96
+\i (00:08:50) roam y -96 
+\i (00:08:50) roam y -96
+\i (00:08:50) roam y -96 
+\i (00:08:50) roam y -96
+\i (00:08:52) roam y 96 
+\i (00:08:52) roam y 96
+\i (00:08:52) roam y 96 
+\i (00:08:52) roam y 96
+\i (00:08:53) zoom in 
+\i (00:08:53) setwindow pcb
+\i (00:08:53) zoom in 233.478 237.549
+\i (00:08:53) trapsize 52
+\i (00:08:53) zoom in 
+\i (00:08:53) setwindow pcb
+\i (00:08:53) zoom in 233.478 237.549
+\i (00:08:53) trapsize 26
+\i (00:08:54) zoom out 
+\i (00:08:54) setwindow pcb
+\i (00:08:54) zoom out 232.852 239.063
+\i (00:08:54) trapsize 52
+\i (00:08:54) zoom out 
+\i (00:08:54) setwindow pcb
+\i (00:08:54) zoom out 232.853 239.063
+\i (00:08:54) trapsize 104
+\i (00:08:55) roam y 96 
+\i (00:08:55) roam y 96
+\i (00:08:56) roam y -96 
+\i (00:08:56) roam y -96
+\i (00:08:56) roam y -96 
+\i (00:08:56) roam y -96
+\i (00:08:56) roam y -96 
+\i (00:08:56) roam y -96
+\i (00:08:57) zoom in 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom in 233.896 240.848
+\i (00:08:57) trapsize 52
+\i (00:08:57) zoom in 
+\i (00:08:57) setwindow pcb
+\i (00:08:57) zoom in 233.896 240.848
+\i (00:08:57) trapsize 26
+\i (00:08:57) roam y 96 
+\i (00:08:57) roam y 96
+\i (00:08:58) zoom out 
+\i (00:08:58) setwindow pcb
+\i (00:08:58) zoom out 233.729 239.729
+\i (00:08:58) trapsize 52
+\i (00:09:00) roam y -96 
+\i (00:09:00) roam y -96
+\i (00:09:00) roam y -96 
+\i (00:09:00) roam y -96
+\i (00:09:01) roam y 96 
+\i (00:09:01) roam y 96
+\i (00:09:01) roam y 96 
+\i (00:09:02) roam y 96
+\i (00:09:02) roam y 96 
+\i (00:09:02) roam y 96
+\i (00:09:02) roam y 96 
+\i (00:09:02) roam y 96
+\i (00:09:02) roam y 96 
+\i (00:09:02) roam y 96
+\i (00:09:02) roam y 96 
+\i (00:09:02) roam y 96
+\i (00:09:02) roam y 96 
+\i (00:09:02) roam y 96
+\i (00:09:02) roam y 96 
+\i (00:09:02) roam y 96
+\i (00:09:04) setwindow form.vf_vis
+\i (00:09:04) FORM vf_vis 3 all_colorvisible NO 
+\i (00:09:04) setwindow pcb
+\i (00:09:04) roam x -96 
+\i (00:09:04) roam x -96
+\i (00:09:05) pick grid 231.308 233.061
+\t (00:09:05) last pick:  231.300  233.100
+\i (00:09:05) roam x -96 
+\i (00:09:05) roam x -96
+\i (00:09:06) roam x -96 
+\i (00:09:06) roam x -96
+\i (00:09:06) roam x -96 
+\i (00:09:06) roam x -96
+\i (00:09:06) roam x -96 
+\i (00:09:06) roam x -96
+\i (00:09:06) roam x -96 
+\i (00:09:06) roam x -96
+\i (00:09:06) roam x -96 
+\i (00:09:06) roam x -96
+\i (00:15:36) pick grid 230.400 232.184
+\t (00:15:36) last pick:  230.400  232.200
+\i (00:15:37) status 
+\i (00:15:38) generaledit 
+\i (00:15:39) setwindow form.status
+\i (00:15:39) FORM status drc_update  
+\t (00:15:39) Running DRC, please wait...
+\t (00:15:39) Performing DRC...
+\t (00:15:39) Multithreaded DRC update (4 threads).
+\t (00:15:40) DRC done; 6 errors detected.
+\t (00:15:40) DRC done.
+\i (00:15:41) FORM status done  
+\i (00:15:46) setwindow pcb
+\i (00:15:46) reports 'Design Rules Check (DRC) Report' 
+\i (00:15:46) reports "Design Rules Check (DRC) Report"
+\i (00:15:46) generaledit 
+\i (00:16:13) zoom center 
+\t (00:16:14) Pick center for the new display.
+\i (00:16:14) pick 229.862 228.038 
+\t (00:16:14) last pick:  229.862  228.038
+\i (00:16:14) trapsize 52
+\i (00:16:14) generaledit 
+\i (00:16:17) setwindow form.vf_vis
+\i (00:16:17) FORM vf_vis all_drc_visible YES 
+\i (00:16:18) FORM vf_vis all_drc_visible_pln YES 
+\i (00:16:22) setwindow pcb
+\i (00:16:22) waive drc 
+\t (00:16:22) Select DRC to waive.
+\i (00:16:23) pick grid 231.292 225.742
+\t (00:16:23) last pick:  231.300  225.700
+\i (00:16:23) pick grid dbl 231.292 225.742
+\t (00:16:23) last pick:  231.300  225.700
+\i (00:16:26) zoom center 
+\t (00:16:26) Pick center for the new display.
+\i (00:16:26) pick 200.500 265.920 
+\t (00:16:26) last pick:  200.500  265.920
+\i (00:16:26) trapsize 52
+\i (00:16:28) pick grid 200.198 266.087
+\t (00:16:28) last pick:  200.200  266.100
+\i (00:16:28) pick grid dbl 200.198 266.087
+\t (00:16:28) last pick:  200.200  266.100
+\i (00:16:30) zoom center 
+\t (00:16:30) Pick center for the new display.
+\i (00:16:30) pick 257.999 257.004 
+\t (00:16:30) last pick:  257.999  257.004
+\i (00:16:30) trapsize 52
+\i (00:16:32) pick grid 258.240 257.025
+\t (00:16:32) last pick:  258.200  257.000
+\i (00:16:32) pick grid dbl 258.240 257.025
+\t (00:16:32) last pick:  258.200  257.000
+\i (00:16:35) zoom center 
+\t (00:16:35) Pick center for the new display.
+\i (00:16:35) pick 230.948 225.950 
+\t (00:16:35) last pick:  230.948  225.950
+\i (00:16:35) trapsize 52
+\i (00:16:39) zoom center 
+\t (00:16:39) Pick center for the new display.
+\i (00:16:39) pick 216.025 292.115 
+\t (00:16:39) last pick:  216.025  292.115
+\i (00:16:39) trapsize 52
+\i (00:16:40) pick grid 216.099 292.219
+\t (00:16:40) last pick:  216.100  292.200
+\i (00:16:40) pick grid dbl 216.099 292.219
+\t (00:16:40) last pick:  216.100  292.200
+\i (00:16:43) zoom center 
+\t (00:16:43) Pick center for the new display.
+\i (00:16:43) pick 206.775 293.185 
+\t (00:16:43) last pick:  206.775  293.185
+\i (00:16:43) trapsize 52
+\i (00:16:45) pick grid 206.556 293.102
+\t (00:16:45) last pick:  206.600  293.100
+\i (00:16:45) pick grid dbl 206.556 293.102
+\t (00:16:45) last pick:  206.600  293.100
+\i (00:16:46) setwindow text
+\i (00:16:46) close 
+\i (00:16:48) setwindow pcb
+\i (00:16:48) save 
+\i (00:16:49) fillin yes 
+\i (00:16:49) generaledit 
+\i (00:16:51) status 
+\i (00:16:51) generaledit 
+\i (00:16:54) setwindow form.status
+\i (00:16:54) FORM status drc_update  
+\t (00:16:54) Running DRC, please wait...
+\t (00:16:54) Performing DRC...
+\t (00:16:54) Multithreaded DRC update (4 threads).
+\t (00:16:54) DRC done; 1 errors detected.
+\t (00:16:54) DRC done.
+\i (00:16:55) FORM status done  
+\i (00:17:00) setwindow pcb
+\i (00:17:00) reports 'Design Rules Check (DRC) Report' 
+\i (00:17:00) reports "Design Rules Check (DRC) Report"
+\i (00:17:01) generaledit 
+\i (00:17:02) zoom center 
+\t (00:17:02) Pick center for the new display.
+\i (00:17:02) pick 229.862 228.038 
+\t (00:17:02) last pick:  229.862  228.038
+\i (00:17:02) trapsize 52
+\i (00:17:02) generaledit 
+\i (00:17:08) color192 
+\i (00:17:09) setwindow cvf.dialog
+\i (00:17:09) cvf layer_mode
+\i (00:17:09) setwindow pcb
+\i (00:17:09) generaledit 
+\i (00:17:10) setwindow cvf.dialog
+\i (00:17:10) cvf layer_tree_item 'Conductor' 'Stack-Up'
+\i (00:17:12) cvf layer_tree_item 'Drc' 'Conductor'
+\i (00:17:13) cvf layers_visible drc/all_row TRUE
+\i (00:17:14) cvf layer_tree_item 'Non-Conductor' 'Stack-Up'
+\i (00:17:15) cvf layer_tree_item 'Drc' 'Non-Conductor'
+\i (00:17:17) cvf layers_visible drc/all_row TRUE
+\i (00:17:18) cvf okay
+\i (00:17:18) setwindow pcb
+\i (00:17:18) pick grid 233.067 224.636
+\t (00:17:18) last pick:  233.100  224.600
+\i (00:17:21) waive drc 
+\t (00:17:21) Select DRC to waive.
+\i (00:17:22) pick grid 229.581 228.226
+\t (00:17:22) last pick:  229.600  228.200
+\i (00:17:22) pick grid dbl 229.581 228.226
+\t (00:17:22) last pick:  229.600  228.200
+\i (00:17:24) save 
+\i (00:17:26) fillin yes 
+\i (00:17:26) generaledit 
+\i (00:17:27) setwindow text
+\i (00:17:27) close 
+\i (00:17:31) setwindow pcb
+\i (00:17:31) status 
+\i (00:17:31) generaledit 
+\i (00:17:33) setwindow form.status
+\i (00:17:33) FORM status drc_update  
+\t (00:17:33) Running DRC, please wait...
+\t (00:17:33) Performing DRC...
+\t (00:17:33) Multithreaded DRC update (4 threads).
+\t (00:17:33) No DRC errors detected.
+\t (00:17:33) DRC done.
+\i (00:17:34) FORM status done  
+\i (00:19:01) setwindow pcb
+\i (00:19:01) zoom out 1 
+\i (00:19:01) setwindow pcb
+\i (00:19:01) zoom out 227.869 229.103
+\i (00:19:01) trapsize 104
+\i (00:19:01) zoom out 1 
+\i (00:19:01) setwindow pcb
+\i (00:19:01) zoom out 227.869 229.102
+\i (00:19:01) trapsize 209
+\i (00:19:01) zoom out 1 
+\i (00:19:01) setwindow pcb
+\i (00:19:01) zoom out 227.869 229.103
+\i (00:19:01) trapsize 417
+\i (00:19:05) setwindow form.vf_vis
+\i (00:19:05) FORM vf_vis colorview_list Film: silk_top 
+\i (00:19:09) setwindow pcb
+\i (00:19:09) pick grid 261.267 227.099
+\t (00:19:09) last pick:  261.300  227.100
+\i (00:19:09) roam x -96 
+\i (00:19:09) roam x -96
+\i (00:19:10) roam x -96 
+\i (00:19:10) roam x -96
+\i (00:19:10) roam y -96 
+\i (00:19:10) roam y -96
+\i (00:19:12) zoom in 
+\i (00:19:12) setwindow pcb
+\i (00:19:12) zoom in 239.324 232.393
+\i (00:19:12) trapsize 209
+\i (00:19:12) zoom in 
+\i (00:19:12) setwindow pcb
+\i (00:19:12) zoom in 239.324 232.393
+\i (00:19:12) trapsize 104
+\i (00:19:12) roam y 96 
+\i (00:19:12) roam y 96
+\i (00:19:12) roam x -96 
+\i (00:19:12) roam x -96
+\i (00:19:13) roam x -96 
+\i (00:19:13) roam x -96
+\i (00:19:14) setwindow form.find
+\i (00:19:14) FORM find all_off  
+\i (00:19:15) FORM find lines YES 
+\i (00:19:17) FORM find text YES 
+\i (00:19:19) setwindow pcb
+\i (00:19:19) drag_start grid 232.435 224.587
+\i (00:19:19) drag_stop 226.882 230.682
+\i (00:19:19) delete 
+\i (00:19:20) generaledit 
+\i (00:19:20) zoom out 
+\i (00:19:20) setwindow pcb
+\i (00:19:20) zoom out 230.598 227.968
+\i (00:19:20) trapsize 209
+\i (00:19:21) zoom out 
+\i (00:19:21) setwindow pcb
+\i (00:19:21) zoom out 230.598 227.968
+\i (00:19:21) trapsize 417
+\i (00:19:22) roam y -96 
+\i (00:19:22) roam y -96
+\i (00:19:23) zoom in 
+\i (00:19:23) setwindow pcb
+\i (00:19:23) zoom in 230.598 235.983
+\i (00:19:23) trapsize 209
+\i (00:19:24) zoom out 
+\i (00:19:24) setwindow pcb
+\i (00:19:24) zoom out 230.598 235.983
+\i (00:19:24) trapsize 417
+\i (00:19:24) roam y -96 
+\i (00:19:24) roam y -96
+\i (00:19:25) roam y -96 
+\i (00:19:25) roam y -96
+\i (00:19:25) roam y -96 
+\i (00:19:25) roam y -96
+\i (00:19:25) roam y -96 
+\i (00:19:25) roam y -96
+\i (00:19:26) roam y 96 
+\i (00:19:26) roam y 96
+\i (00:19:28) save 
+\i (00:19:29) fillin yes 
+\i (00:19:30) generaledit 
+\i (00:37:10) pick grid 266.167 259.863
+\t (00:37:10) last pick:  266.200  259.900
+\i (00:37:34) reports 'Symbol Pin Report' 
+\i (00:37:34) reports "Symbol Pin Report"
+\i (00:37:35) generaledit 
+\i (00:38:34) xhilite 
+\i (00:38:35) xrefdes C53 
+\i (00:38:35) xname_flush 
+\i (00:38:35) trapsize 28
+\w (00:38:35) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C53" highlighted.
+\i (00:38:35) done 
+\i (00:38:35) xdehilite 
+\i (00:38:35) xrefdes C53 
+\i (00:38:35) xname_flush 
+\t (00:38:35) Symbol "C53" dehighlighted.
+\i (00:38:35) done 
+\i (00:38:35) xhilite 
+\i (00:38:35) xrefdes C53 
+\i (00:38:35) xname_flush 
+\i (00:38:35) trapsize 28
+\w (00:38:35) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C53" highlighted.
+\i (00:38:35) done 
+\i (00:38:35) generaledit 
+\i (00:38:53) xhilite 
+\i (00:38:53) xrefdes C54 
+\i (00:38:53) xname_flush 
+\i (00:38:53) trapsize 32
+\w (00:38:53) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C54" highlighted.
+\i (00:38:53) done 
+\i (00:38:53) generaledit 
+\i (00:39:05) xhilite 
+\i (00:39:05) xrefdes C52 
+\i (00:39:05) xname_flush 
+\i (00:39:05) trapsize 32
+\w (00:39:05) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C52" highlighted.
+\i (00:39:05) done 
+\i (00:39:06) generaledit 
+\i (00:39:40) xdehilite 
+\i (00:39:40) xrefdes C52 
+\i (00:39:40) xrefdes C53 
+\i (00:39:40) xrefdes C54 
+\i (00:39:40) xname_flush 
+\t (00:39:41) Symbol "C52" dehighlighted.
+\t (00:39:41) Symbol "C53" dehighlighted.
+\t (00:39:41) Symbol "C54" dehighlighted.
+\i (00:39:41) done 
+\i (00:39:41) generaledit 
+\i (00:39:46) xhilite 
+\i (00:39:46) xrefdes C57 
+\i (00:39:46) xname_flush 
+\i (00:39:46) trapsize 32
+\w (00:39:46) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C57" highlighted.
+\i (00:39:46) done 
+\i (00:39:46) generaledit 
+\i (00:40:06) xhilite 
+\i (00:40:07) xrefdes C53 
+\i (00:40:07) xname_flush 
+\i (00:40:07) trapsize 32
+\w (00:40:07) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C53" highlighted.
+\i (00:40:07) done 
+\i (00:40:07) generaledit 
+\i (00:40:08) xhilite 
+\i (00:40:08) xrefdes C54 
+\i (00:40:08) xname_flush 
+\i (00:40:08) trapsize 32
+\w (00:40:08) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C54" highlighted.
+\i (00:40:08) done 
+\i (00:40:09) generaledit 
+\i (00:41:07) xhilite 
+\i (00:41:07) xrefdes L1 
+\i (00:41:07) xname_flush 
+\i (00:41:07) trapsize 36
+\w (00:41:07) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "L1" highlighted.
+\i (00:41:07) done 
+\i (00:41:07) generaledit 
+\i (00:41:07) xdehilite 
+\i (00:41:07) xrefdes L1 
+\i (00:41:07) xname_flush 
+\t (00:41:07) Symbol "L1" dehighlighted.
+\i (00:41:07) done 
+\i (00:41:07) xhilite 
+\i (00:41:08) xrefdes L1 
+\i (00:41:08) xname_flush 
+\i (00:41:08) trapsize 36
+\w (00:41:08) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "L1" highlighted.
+\i (00:41:08) done 
+\i (00:41:08) generaledit 
+\i (00:41:15) xdehilite 
+\i (00:41:15) xrefdes L1 
+\i (00:41:15) xname_flush 
+\t (00:41:15) Symbol "L1" dehighlighted.
+\i (00:41:15) done 
+\i (00:41:15) xhilite 
+\i (00:41:15) xrefdes L1.2 
+\i (00:41:15) xname_flush 
+\i (00:41:15) trapsize 17
+\w (00:41:15) WARNING(SPMHFN-61): Disable custom colors is enabled. Pin "L1.2" highlighted.
+\i (00:41:15) done 
+\i (00:41:15) generaledit 
+\i (00:41:21) xdehilite 
+\i (00:41:21) xrefdes L1.2 
+\i (00:41:21) xname_flush 
+\t (00:41:21) Pin "L1.2" dehighlighted.
+\i (00:41:21) done 
+\i (00:41:21) generaledit 
+\i (00:41:22) xhilite 
+\i (00:41:22) xrefdes L1 
+\i (00:41:22) xname_flush 
+\i (00:41:22) trapsize 36
+\w (00:41:22) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "L1" highlighted.
+\i (00:41:22) done 
+\i (00:41:22) generaledit 
+\i (00:41:23) xdehilite 
+\i (00:41:23) xrefdes L1 
+\i (00:41:23) xname_flush 
+\t (00:41:23) Symbol "L1" dehighlighted.
+\i (00:41:23) done 
+\i (00:41:23) generaledit 
+\i (00:43:32) xhilite 
+\i (00:43:32) xrefdes U1 
+\i (00:43:32) xname_flush 
+\i (00:43:32) trapsize 111
+\w (00:43:32) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "U1" highlighted.
+\i (00:43:32) done 
+\i (00:43:32) generaledit 
+\i (00:43:36) xdehilite 
+\i (00:43:36) xrefdes U1 
+\i (00:43:36) xname_flush 
+\t (00:43:36) Symbol "U1" dehighlighted.
+\i (00:43:36) done 
+\i (00:43:36) xhilite 
+\i (00:43:36) xrefdes L1 
+\i (00:43:36) xname_flush 
+\i (00:43:36) trapsize 36
+\w (00:43:36) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "L1" highlighted.
+\i (00:43:36) done 
+\i (00:43:37) generaledit 
+\i (00:44:43) setwindow text
+\i (00:44:43) close 
+\i (00:45:09) setwindow pcb
+\i (00:45:09) netin 
+\i (00:45:10) setwindow form.niparams
+\i (00:45:10) FORM niparams import  
+\t (00:45:10) Starting Cadence Logic Import...
+\w (00:45:12) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (00:45:12) Opening existing design...
+\i (00:45:13) setwindow pcb
+\i (00:45:13) trapsize 36
+\i (00:45:14) generaledit 
+\i (00:45:16) setwindow text
+\i (00:45:16) close 
+\i (00:45:19) setwindow pcb
+\i (00:45:19) pick grid 225.723 249.495
+\t (00:45:19) last pick:  225.700  249.500
+\i (00:45:24) pick grid 225.115 249.322
+\t (00:45:24) last pick:  225.100  249.300
+\e (00:45:25) Command not found: ~F
+\i (00:45:28) setwindow form.find
+\i (00:45:28) FORM find name_type Symbol (or Pin) 
+\i (00:45:35) FORM find find_name c53 
+\i (00:45:35) setwindow pcb
+\i (00:45:35) trapsize 25
+\i (00:45:36) zoom out 1 
+\i (00:45:36) setwindow pcb
+\i (00:45:36) zoom out 221.490 260.397
+\i (00:45:36) trapsize 51
+\i (00:45:36) zoom out 1 
+\i (00:45:36) setwindow pcb
+\i (00:45:36) zoom out 221.490 260.397
+\i (00:45:36) trapsize 101
+\i (00:45:36) zoom out 1 
+\i (00:45:36) setwindow pcb
+\i (00:45:36) zoom out 221.490 260.397
+\i (00:45:36) trapsize 203
+\i (00:45:36) zoom out 1 
+\i (00:45:36) setwindow pcb
+\i (00:45:36) zoom out 221.490 260.398
+\i (00:45:36) trapsize 406
+\i (00:45:42) setwindow form.vf_vis
+\i (00:45:42) FORM vf_vis colorview_list Film: Top 
+\i (00:45:43) setwindow pcb
+\i (00:45:43) zoom in 1 
+\i (00:45:43) setwindow pcb
+\i (00:45:43) zoom in 221.327 260.723
+\i (00:45:43) trapsize 203
+\i (00:45:43) zoom in 1 
+\i (00:45:43) setwindow pcb
+\i (00:45:43) zoom in 221.328 260.724
+\i (00:45:43) trapsize 101
+\i (00:45:43) zoom in 1 
+\i (00:45:43) setwindow pcb
+\i (00:45:43) zoom in 221.328 260.724
+\i (00:45:43) trapsize 51
+\i (00:45:44) zoom in 1 
+\i (00:45:44) setwindow pcb
+\i (00:45:44) zoom in 221.328 260.724
+\i (00:45:44) trapsize 25
+\i (00:45:44) zoom in 1 
+\i (00:45:44) setwindow pcb
+\i (00:45:44) zoom in 221.328 260.724
+\i (00:45:44) trapsize 13
+\i (00:45:45) zoom out 1 
+\i (00:45:45) setwindow pcb
+\i (00:45:45) zoom out 221.329 260.724
+\i (00:45:45) trapsize 25
+\i (00:45:45) zoom out 1 
+\i (00:45:45) setwindow pcb
+\i (00:45:45) zoom out 221.328 260.724
+\i (00:45:45) trapsize 51
+\i (00:45:45) zoom in 1 
+\i (00:45:45) setwindow pcb
+\i (00:45:45) zoom in 221.329 260.725
+\i (00:45:45) trapsize 25
+\i (00:45:46) zoom in 1 
+\i (00:45:46) setwindow pcb
+\i (00:45:46) zoom in 221.329 260.725
+\i (00:45:46) trapsize 13
+\i (00:45:46) zoom in 1 
+\i (00:45:46) setwindow pcb
+\i (00:45:46) zoom in 221.330 260.725
+\i (00:45:46) trapsize 6
+\i (00:45:46) zoom out 1 
+\i (00:45:46) setwindow pcb
+\i (00:45:46) zoom out 221.330 260.725
+\i (00:45:46) trapsize 13
+\i (00:45:47) zoom out 1 
+\i (00:45:47) setwindow pcb
+\i (00:45:47) zoom out 221.329 260.725
+\i (00:45:47) trapsize 25
+\i (00:45:49) roam x 96 
+\i (00:45:49) roam x 96
+\i (00:45:50) roam x 96 
+\i (00:45:50) roam x 96
+\i (00:45:50) roam x 96 
+\i (00:45:50) roam x 96
+\i (00:45:50) roam x 96 
+\i (00:45:50) roam x 96
+\i (00:45:50) roam x 96 
+\i (00:45:50) roam x 96
+\i (00:45:51) roam x -96 
+\i (00:45:51) roam x -96
+\i (00:45:51) roam x -96 
+\i (00:45:51) roam x -96
+\i (00:45:51) roam x -96 
+\i (00:45:51) roam x -96
+\i (00:45:52) roam y -96 
+\i (00:45:52) roam y -96
+\i (00:45:52) roam y -96 
+\i (00:45:52) roam y -96
+\i (00:45:53) pick grid 221.600 263.245
+\t (00:45:53) last pick:  221.600  263.200
+\i (00:45:56) setwindow form.find
+\i (00:45:56) FORM find all_off  
+\i (00:45:56) FORM find symbols YES 
+\i (00:46:00) setwindow pcb
+\i (00:46:00) roam y 96 
+\i (00:46:00) roam y 96
+\i (00:46:00) roam y 96 
+\i (00:46:00) roam y 96
+\i (00:46:00) roam y 96 
+\i (00:46:00) roam y 96
+\i (00:46:00) roam x -96 
+\i (00:46:00) roam x -96
+\i (00:46:04) setwindow form.find
+\i (00:46:04) FORM find find_name c54 
+\i (00:46:04) setwindow pcb
+\i (00:46:04) trapsize 25
+\i (00:46:08) save 
+\i (00:46:09) fillin yes 
+\i (00:46:10) generaledit 
+\i (00:46:13) setwindow form.vf_vis
+\i (00:46:13) FORM vf_vis colorview_list Film: silk_top 
+\i (00:46:13) setwindow pcb
+\i (00:46:13) pick grid 226.738 262.074
+\t (00:46:13) last pick:  226.700  262.100
+\i (00:46:14) zoom out 1 
+\i (00:46:14) setwindow pcb
+\i (00:46:14) zoom out 226.738 262.074
+\i (00:46:14) trapsize 51
+\i (00:46:14) zoom out 1 
+\i (00:46:14) setwindow pcb
+\i (00:46:14) zoom out 226.738 262.075
+\i (00:46:14) trapsize 101
+\i (00:46:14) zoom out 1 
+\i (00:46:14) setwindow pcb
+\i (00:46:14) zoom out 226.739 262.075
+\i (00:46:14) trapsize 203
+\i (00:46:15) setwindow form.find
+\i (00:46:15) FORM find all_off  
+\i (00:46:20) FORM find lines YES 
+\i (00:46:21) FORM find text YES 
+\i (00:46:21) setwindow pcb
+\i (00:46:21) drag_start grid 232.176 259.803
+\i (00:46:22) drag_stop 211.404 264.834
+\i (00:46:24) delete 
+\i (00:46:24) generaledit 
+\i (00:46:26) save 
+\i (00:46:27) fillin yes 
+\i (00:46:27) generaledit 
+\i (00:46:32) setwindow form.vf_vis
+\i (00:46:32) FORM vf_vis colorview_list Film: assembly_top 
+\i (00:46:32) setwindow pcb
+\i (00:46:32) pick grid 226.091 267.268
+\t (00:46:32) last pick:  226.100  267.300
+\i (00:46:33) zoom in 1 
+\i (00:46:33) setwindow pcb
+\i (00:46:33) zoom in 225.847 267.106
+\i (00:46:33) trapsize 101
+\i (00:46:33) zoom in 1 
+\i (00:46:33) setwindow pcb
+\i (00:46:33) zoom in 225.847 267.106
+\i (00:46:33) trapsize 51
+\i (00:46:35) roam y 96 
+\i (00:46:35) roam y 96
+\i (00:46:35) roam y 96 
+\i (00:46:35) roam y 96
+\i (00:46:36) roam y 96 
+\i (00:46:36) roam y 96
+\i (00:46:36) roam x -96 
+\i (00:46:36) roam x -96
+\i (00:46:36) roam y 96 
+\i (00:46:36) roam y 96
+\i (00:46:36) roam x 96 
+\i (00:46:36) roam x 96
+\i (00:46:36) roam y 96 
+\i (00:46:36) roam y 96
+\i (00:46:37) roam x -96 
+\i (00:46:37) roam x -96
+\i (00:46:37) pick grid 223.325 264.159
+\t (00:46:37) last pick:  223.300  264.200
+\i (00:46:40) change 
+\i (00:46:41) pick grid 220.322 261.420
+\t (00:46:41) last pick:  220.300  261.400
+\t (00:46:41) No DRC errors detected.
+\t (00:46:41) Changed 1 items out of 1 items found.
+\i (00:46:42) pick grid 225.820 261.866
+\t (00:46:42) last pick:  225.800  261.900
+\t (00:46:42) No DRC errors detected.
+\t (00:46:42) Changed 1 items out of 1 items found.
+\i (00:46:43) done 
+\i (00:46:43) generaledit 
+\i (00:46:44) drag_start grid 220.688 261.400
+\i (00:46:44) move 
+\t (00:46:44) last pick:  220.250  261.688
+\t (00:46:44) Pick new location for the element(s).
+\i (00:46:48) drag_stop
+\i (00:46:48) prepopup 221.377 261.298
+\i (00:46:49) rotate 
+\t (00:46:49) Spin the element(s).
+\i (00:46:50) iangle 180.000
+\t (00:46:50) last angle:  90.000 Degrees
+\i (00:46:51) pick grid 222.331 259.513
+\t (00:46:51) last pick:  222.300  259.500
+\i (00:46:52) generaledit 
+\i (00:46:52) roam x 96 
+\i (00:46:52) roam x 96
+\i (00:46:52) roam x 96 
+\i (00:46:52) roam x 96
+\i (00:46:53) drag_start grid 225.961 260.406
+\i (00:46:53) move 
+\t (00:46:53) last pick:  225.400  261.600
+\t (00:46:53) Pick new location for the element(s).
+\i (00:46:53) drag_stop
+\i (00:46:53) prepopup 225.759 259.939
+\i (00:46:55) rotate 
+\t (00:46:56) Spin the element(s).
+\i (00:46:57) iangle 180.000
+\t (00:46:57) last angle:  90.000 Degrees
+\i (00:46:58) pick grid 226.367 259.473
+\t (00:46:58) last pick:  226.400  259.500
+\i (00:46:58) generaledit 
+\i (00:46:59) drag_start grid 225.779 261.643
+\i (00:46:59) move 
+\t (00:46:59) last pick:  225.950  261.312
+\t (00:46:59) Pick new location for the element(s).
+\i (00:47:02) drag_stop grid 226.367 261.664
+\i (00:47:02) generaledit 
+\i (00:47:02) pick grid 226.692 264.078
+\t (00:47:02) last pick:  226.700  264.100
+\i (00:47:05) save 
+\i (00:47:06) fillin yes 
+\i (00:47:06) generaledit 
+\i (00:47:21) pick grid 227.290 260.822
+\t (00:47:21) last pick:  227.300  260.800
+\i (00:47:22) drag_start grid 227.067 260.822
+\i (00:47:22) move 
+\t (00:47:23) last pick:  226.700  260.600
+\t (00:47:23) Pick new location for the element(s).
+\i (00:47:25) drag_stop grid 226.742 260.720
+\i (00:47:25) generaledit 
+\i (00:47:26) pick grid 227.249 259.341
+\t (00:47:26) last pick:  227.200  259.300
+\i (00:47:29) save 
+\i (00:47:30) fillin yes 
+\i (00:47:30) generaledit 
+\i (00:47:41) status 
+\i (00:47:41) generaledit 
+\i (00:47:44) setwindow form.status
+\i (00:47:44) FORM status drc_update  
+\t (00:47:44) Running DRC, please wait...
+\t (00:47:44) Performing DRC...
+\t (00:47:44) Multithreaded DRC update (4 threads).
+\t (00:47:44) DRC done; 2 errors detected.
+\t (00:47:44) DRC done.
+\i (00:47:45) FORM status done  
+\i (00:47:51) setwindow pcb
+\i (00:47:51) reports 'Design Rules Check (DRC) Report' 
+\i (00:47:51) reports "Design Rules Check (DRC) Report"
+\i (00:47:51) generaledit 
+\i (00:47:58) pick grid 227.919 259.442
+\t (00:47:58) last pick:  227.900  259.400
+\i (00:47:59) zoom out 
+\i (00:47:59) setwindow pcb
+\i (00:47:59) zoom out 227.919 259.463
+\i (00:47:59) trapsize 101
+\i (00:47:59) zoom out 
+\i (00:47:59) setwindow pcb
+\i (00:47:59) zoom out 226.621 259.665
+\i (00:47:59) trapsize 203
+\i (00:48:00) roam y 96 
+\i (00:48:00) roam y 96
+\i (00:48:01) roam y 96 
+\i (00:48:01) roam y 96
+\i (00:48:02) roam y 96 
+\i (00:48:02) roam y 96
+\i (00:48:02) roam y 96 
+\i (00:48:02) roam y 96
+\i (00:48:02) roam y 96 
+\i (00:48:02) roam y 96
+\i (00:48:02) roam y 96 
+\i (00:48:02) roam y 96
+\i (00:48:02) roam y 96 
+\i (00:48:02) roam y 96
+\i (00:48:02) roam x 96 
+\i (00:48:02) roam x 96
+\i (00:48:02) roam y 96 
+\i (00:48:02) roam y 96
+\i (00:48:03) roam x 96 
+\i (00:48:03) roam x 96
+\i (00:48:03) roam y 96 
+\i (00:48:03) roam y 96
+\i (00:48:03) roam x 96 
+\i (00:48:03) roam x 96
+\i (00:48:03) roam y 96 
+\i (00:48:03) roam y 96
+\i (00:48:03) zoom in 
+\i (00:48:04) setwindow pcb
+\i (00:48:04) zoom in 237.471 225.746
+\i (00:48:04) trapsize 101
+\i (00:48:04) zoom in 
+\i (00:48:04) setwindow pcb
+\i (00:48:04) zoom in 237.065 225.787
+\i (00:48:04) trapsize 51
+\i (00:48:04) roam x -96 
+\i (00:48:04) roam x -96
+\i (00:48:05) roam x -96 
+\i (00:48:05) roam x -96
+\i (00:48:07) change 
+\i (00:48:08) pick grid 229.146 228.444
+\t (00:48:08) last pick:  229.100  228.400
+\t (00:48:08) No DRC errors detected.
+\t (00:48:08) Changed 1 items out of 1 items found.
+\i (00:48:08) pick grid 230.384 226.984
+\t (00:48:08) last pick:  230.400  227.000
+\t (00:48:08) No DRC errors detected.
+\t (00:48:08) Changed 1 items out of 1 items found.
+\i (00:48:09) done 
+\i (00:48:09) generaledit 
+\i (00:48:10) drag_start grid 229.471 228.404
+\i (00:48:10) move 
+\t (00:48:10) last pick:  229.050  228.588
+\t (00:48:10) Pick new location for the element(s).
+\i (00:48:11) drag_stop grid 228.578 228.749
+\i (00:48:11) generaledit 
+\i (00:48:12) drag_start grid 230.363 226.497
+\i (00:48:12) move 
+\t (00:48:12) last pick:  230.488  227.150
+\t (00:48:12) Pick new location for the element(s).
+\i (00:48:13) drag_stop
+\i (00:48:13) prepopup 232.818 226.842
+\i (00:48:14) rotate 
+\t (00:48:14) Spin the element(s).
+\i (00:48:15) iangle 180.000
+\t (00:48:15) last angle:  0.000 Degrees
+\i (00:48:17) pick grid 230.221 225.939
+\t (00:48:17) last pick:  230.200  225.900
+\i (00:48:17) generaledit 
+\i (00:48:18) zoom out 
+\i (00:48:18) setwindow pcb
+\i (00:48:18) zoom out 230.221 225.899
+\i (00:48:18) trapsize 101
+\i (00:48:18) zoom out 
+\i (00:48:18) setwindow pcb
+\i (00:48:18) zoom out 230.222 225.898
+\i (00:48:18) trapsize 203
+\i (00:48:20) roam x -96 
+\i (00:48:20) roam x -96
+\i (00:48:21) save 
+\i (00:48:22) fillin yes 
+\i (00:48:22) generaledit 
+\i (00:48:23) roam x -96 
+\i (00:48:23) roam x -96
+\i (00:48:23) roam x -96 
+\i (00:48:23) roam x -96
+\i (00:48:23) roam x -96 
+\i (00:48:23) roam x -96
+\i (00:48:23) roam x -96 
+\i (00:48:23) roam x -96
+\i (00:48:23) roam x -96 
+\i (00:48:23) roam x -96
+\i (00:48:23) roam x -96 
+\i (00:48:23) roam x -96
+\i (00:48:23) roam x -96 
+\i (00:48:23) roam x -96
+\i (00:48:24) roam y 96 
+\i (00:48:24) roam y 96
+\i (00:48:24) roam x 96 
+\i (00:48:24) roam x 96
+\i (00:48:24) roam x 96 
+\i (00:48:24) roam x 96
+\i (00:48:24) roam y -96 
+\i (00:48:24) roam y -96
+\i (00:48:25) roam x 96 
+\i (00:48:25) roam x 96
+\i (00:48:25) roam y -96 
+\i (00:48:25) roam y -96
+\i (00:48:25) roam y -96 
+\i (00:48:25) roam y -96
+\i (00:48:25) roam x 96 
+\i (00:48:25) roam x 96
+\i (00:48:26) roam x 96 
+\i (00:48:26) roam x 96
+\i (00:48:26) roam x 96 
+\i (00:48:26) roam x 96
+\i (00:48:27) roam y -96 
+\i (00:48:27) roam y -96
+\i (00:48:27) roam y -96 
+\i (00:48:27) roam y -96
+\i (00:48:28) roam y -96 
+\i (00:48:28) roam y -96
+\i (00:48:29) roam y -96 
+\i (00:48:29) roam y -96
+\i (00:48:29) roam y -96 
+\i (00:48:29) roam y -96
+\i (00:48:30) roam y -96 
+\i (00:48:30) roam y -96
+\i (00:48:30) roam x -96 
+\i (00:48:30) roam x -96
+\i (00:48:30) roam x -96 
+\i (00:48:30) roam x -96
+\i (00:48:31) roam y -96 
+\i (00:48:31) roam y -96
+\i (00:48:31) roam x -96 
+\i (00:48:31) roam x -96
+\i (00:48:31) roam x -96 
+\i (00:48:31) roam x -96
+\i (00:48:31) roam x -96 
+\i (00:48:31) roam x -96
+\i (00:48:31) roam x 96 
+\i (00:48:31) roam x 96
+\i (00:48:32) roam y -96 
+\i (00:48:32) roam y -96
+\i (00:48:32) roam y -96 
+\i (00:48:32) roam y -96
+\i (00:48:32) roam y -96 
+\i (00:48:32) roam y -96
+\i (00:48:32) roam y -96 
+\i (00:48:32) roam y -96
+\i (00:48:32) roam y -96 
+\i (00:48:32) roam y -96
+\i (00:48:32) roam y -96 
+\i (00:48:32) roam y -96
+\i (00:48:32) roam y -96 
+\i (00:48:32) roam y -96
+\i (00:48:33) roam x 96 
+\i (00:48:33) roam x 96
+\i (00:48:33) roam y 96 
+\i (00:48:33) roam y 96
+\i (00:48:33) roam x 96 
+\i (00:48:33) roam x 96
+\i (00:48:33) roam y 96 
+\i (00:48:33) roam y 96
+\i (00:48:33) roam y 96 
+\i (00:48:34) roam y 96
+\i (00:48:34) roam x 96 
+\i (00:48:34) roam x 96
+\i (00:48:34) roam y 96 
+\i (00:48:34) roam y 96
+\i (00:48:34) roam y 96 
+\i (00:48:34) roam y 96
+\i (00:48:34) roam y 96 
+\i (00:48:34) roam y 96
+\i (00:48:35) roam y 96 
+\i (00:48:35) roam y 96
+\i (00:48:35) roam y 96 
+\i (00:48:35) roam y 96
+\i (00:48:35) roam y 96 
+\i (00:48:35) roam y 96
+\i (00:48:37) roam y 96 
+\i (00:48:37) roam y 96
+\i (00:48:38) roam y 96 
+\i (00:48:38) roam y 96
+\i (00:48:39) roam y 96 
+\i (00:48:39) roam y 96
+\i (00:48:40) roam y 96 
+\i (00:48:40) roam y 96
+\i (00:48:48) setwindow form.vf_vis
+\i (00:48:48) FORM vf_vis colorview_list Film: Top 
+\i (00:48:50) FORM vf_vis all_drc_visible YES 
+\i (00:48:50) FORM vf_vis all_drc_visible_pln YES 
+\i (00:48:52) setwindow pcb
+\i (00:48:52) zoom center 
+\t (00:48:52) Pick center for the new display.
+\i (00:48:52) pick 257.999 257.004 
+\t (00:48:52) last pick:  257.999  257.004
+\i (00:48:52) trapsize 203
+\i (00:48:52) generaledit 
+\i (00:48:53) pick grid 260.474 258.384
+\t (00:48:53) last pick:  260.500  258.400
+\i (00:48:53) zoom in 
+\i (00:48:53) setwindow pcb
+\i (00:48:53) zoom in 260.474 258.384
+\i (00:48:53) trapsize 101
+\i (00:48:53) zoom in 
+\i (00:48:53) setwindow pcb
+\i (00:48:53) zoom in 260.312 258.303
+\i (00:48:53) trapsize 51
+\i (00:48:55) waive drc 
+\t (00:48:55) Select DRC to waive.
+\i (00:48:56) pick grid 258.203 256.944
+\t (00:48:56) last pick:  258.200  256.900
+\i (00:48:56) pick grid dbl 258.203 256.944
+\t (00:48:56) last pick:  258.200  256.900
+\i (00:48:57) zoom center 
+\t (00:48:57) Pick center for the new display.
+\i (00:48:57) pick 200.500 265.920 
+\t (00:48:57) last pick:  200.500  265.920
+\i (00:48:57) trapsize 51
+\i (00:48:58) pick grid 200.287 266.022
+\t (00:48:58) last pick:  200.300  266.000
+\i (00:48:59) pick grid dbl 200.287 266.022
+\t (00:48:59) last pick:  200.300  266.000
+\i (00:48:59) done 
+\i (00:48:59) generaledit 
+\i (00:49:01) setwindow text
+\i (00:49:01) close 
+\i (00:49:02) setwindow pcb
+\i (00:49:02) save 
+\i (00:49:04) fillin yes 
+\i (00:49:04) generaledit 
+\i (02:33:25) pick grid 197.285 265.433
+\t (02:33:25) last pick:  197.300  265.400
+\i (02:33:33) pick grid 199.962 265.068
+\t (02:33:33) last pick:  200.000  265.100
+\i (02:33:41) zoom out 1 
+\i (02:33:41) setwindow pcb
+\i (02:33:41) zoom out 199.922 262.725
+\i (02:33:41) trapsize 101
+\i (02:33:42) zoom out 1 
+\i (02:33:42) setwindow pcb
+\i (02:33:42) zoom out 199.841 263.091
+\i (02:33:42) trapsize 203
+\i (02:33:43) roam y -96 
+\i (02:33:43) roam y -96
+\i (02:33:43) roam x 96 
+\i (02:33:43) roam x 96
+\i (02:33:43) roam y -96 
+\i (02:33:43) roam y -96
+\i (02:33:43) roam x 96 
+\i (02:33:43) roam x 96
+\i (02:33:44) zoom in 
+\i (02:33:44) setwindow pcb
+\i (02:33:44) zoom in 212.886 279.058
+\i (02:33:44) trapsize 101
+\i (02:33:44) zoom in 
+\i (02:33:44) setwindow pcb
+\i (02:33:44) zoom in 212.886 279.058
+\i (02:33:44) trapsize 51
+\i (02:33:44) roam x 96 
+\i (02:33:44) roam x 96
+\i (02:33:45) roam x 96 
+\i (02:33:45) roam x 96
+\i (02:33:45) roam x 96 
+\i (02:33:45) roam x 96
+\i (02:33:45) zoom out 
+\i (02:33:45) setwindow pcb
+\i (02:33:45) zoom out 217.523 280.681
+\i (02:33:45) trapsize 101
+\i (02:33:46) roam y -96 
+\i (02:33:46) roam y -96
+\i (02:33:46) roam y 96 
+\i (02:33:46) roam y 96
+\i (02:33:47) roam x -96 
+\i (02:33:47) roam x -96
+\i (02:33:47) roam y -96 
+\i (02:33:47) roam y -96
+\i (02:33:47) roam x 96 
+\i (02:33:47) roam x 96
+\i (02:33:48) roam x 96 
+\i (02:33:48) roam x 96
+\i (02:33:48) roam x 96 
+\i (02:33:48) roam x 96
+\i (02:33:48) roam x 96 
+\i (02:33:48) roam x 96
+\i (02:33:48) roam x 96 
+\i (02:33:48) roam x 96
+\i (02:33:48) roam y 96 
+\i (02:33:48) roam y 96
+\i (02:33:49) roam y 96 
+\i (02:33:49) roam y 96
+\i (02:33:49) roam y 96 
+\i (02:33:49) roam y 96
+\i (02:33:49) roam y 96 
+\i (02:33:49) roam y 96
+\i (02:33:49) roam y 96 
+\i (02:33:49) roam y 96
+\i (02:33:49) roam y 96 
+\i (02:33:49) roam y 96
+\i (02:33:49) roam y 96 
+\i (02:33:49) roam y 96
+\i (02:33:49) roam y 96 
+\i (02:33:49) roam y 96
+\i (02:33:49) roam y 96 
+\i (02:33:49) roam y 96
+\i (02:33:49) roam y 96 
+\i (02:33:49) roam y 96
+\i (02:33:49) roam y 96 
+\i (02:33:49) roam y 96
+\i (02:33:50) roam x 96 
+\i (02:33:50) roam x 96
+\i (02:33:51) roam x 96 
+\i (02:33:51) roam x 96
+\i (02:33:54) roam x 96 
+\i (02:33:54) roam x 96
+\i (02:33:54) roam x 96 
+\i (02:33:54) roam x 96
+\i (02:33:54) roam x 96 
+\i (02:33:54) roam x 96
+\i (02:33:54) roam x 96 
+\i (02:33:54) roam x 96
+\i (02:33:54) roam x 96 
+\i (02:33:54) roam x 96
+\i (02:33:55) roam x -96 
+\i (02:33:56) roam x -96
+\i (02:34:30) pick grid 231.621 258.803
+\t (02:34:30) last pick:  231.600  258.800
+\i (02:34:30) roam x -96 
+\i (02:34:30) roam x -96
+\i (02:34:31) roam x -96 
+\i (02:34:31) roam x -96
+\i (02:34:31) roam x -96 
+\i (02:34:31) roam x -96
+\i (02:34:31) roam x -96 
+\i (02:34:31) roam x -96
+\i (02:34:37) setwindow form.vf_vis
+\i (02:34:37) FORM vf_vis 3 all_colorvisible YES 
+\i (02:34:38) setwindow pcb
+\i (02:34:38) zoom in 
+\i (02:34:38) setwindow pcb
+\i (02:34:38) zoom in 219.126 261.400
+\i (02:34:38) trapsize 51
+\i (02:34:38) zoom in 
+\i (02:34:38) setwindow pcb
+\i (02:34:38) zoom in 219.654 261.298
+\i (02:34:38) trapsize 25
+\i (02:34:39) roam x -96 
+\i (02:34:39) roam x -96
+\i (02:34:41) setwindow form.find
+\i (02:34:41) FORM find all_off  
+\i (02:34:42) FORM find vias YES 
+\i (02:34:43) setwindow pcb
+\i (02:34:43) drag_start grid 219.258 261.248
+\i (02:34:43) slide 
+\t (02:34:43) Waiting for the destination pick.
+\i (02:34:45) drag_stop grid 219.258 261.015
+\t (02:34:46) No DRC errors detected.
+\i (02:34:46) generaledit 
+\i (02:34:48) pick grid 219.197 261.532
+\t (02:34:48) last pick:  219.200  261.500
+\i (02:34:49) add connect 
+\e (02:34:49) ERROR(SPMHA1-161): Cannot open the design database file ... run standalone dbdoctor on the file.
+\w (02:34:49) WARNING(SPMHDB-95): Padstack VIA_0_2MM not found. Purging it from DEFAULT constraint set will eliminate warning.
+\t (02:34:49) Pick first element.
+\i (02:34:50) pick grid 219.268 261.532
+\t (02:34:50) last pick:  219.300  261.500
+\t (02:34:50) last pick:  219.300  261.500
+\i (02:34:50) pick grid dbl 219.268 261.532
+\t (02:34:50) last pick:  219.300  261.500
+\t (02:34:50) VIA_04CIR02 used for drill.
+\t (02:34:50) No DRC errors detected.
+\t (02:34:50) Pick first element.
+\i (02:34:51) done 
+\i (02:34:51) generaledit 
+\i (02:34:54) setwindow form.find
+\i (02:34:54) FORM find cline_segs YES 
+\i (02:34:56) setwindow pcb
+\i (02:34:56) drag_start grid 219.663 261.846
+\i (02:34:56) slide 
+\t (02:34:56) Waiting for the destination pick.
+\i (02:35:00) drag_stop grid 219.663 261.999
+\t (02:35:00) No DRC errors detected.
+\i (02:35:01) generaledit 
+\i (02:35:03) drag_start grid 218.882 261.907
+\i (02:35:03) slide 
+\t (02:35:03) Waiting for the destination pick.
+\i (02:35:04) drag_stop grid 218.923 262.191
+\t (02:35:04) No DRC errors detected.
+\i (02:35:05) generaledit 
+\i (02:35:05) roam y -96 
+\i (02:35:05) roam y -96
+\i (02:35:05) zoom out 
+\i (02:35:05) setwindow pcb
+\i (02:35:05) zoom out 218.964 262.009
+\i (02:35:05) trapsize 51
+\i (02:35:06) roam x 96 
+\i (02:35:06) roam x 96
+\i (02:35:07) roam x -96 
+\i (02:35:07) roam x -96
+\i (02:35:08) roam x 96 
+\i (02:35:08) roam x 96
+\i (02:35:08) roam x 96 
+\i (02:35:08) roam x 96
+\i (02:35:09) roam x -96 
+\i (02:35:09) roam x -96
+\i (02:35:09) roam x -96 
+\i (02:35:09) roam x -96
+\i (02:35:09) roam x -96 
+\i (02:35:09) roam x -96
+\i (02:35:10) zoom in 
+\i (02:35:10) setwindow pcb
+\i (02:35:10) zoom in 217.473 263.064
+\i (02:35:10) trapsize 25
+\i (02:35:10) zoom in 
+\i (02:35:10) setwindow pcb
+\i (02:35:10) zoom in 217.595 263.014
+\i (02:35:10) trapsize 13
+\i (02:35:11) zoom in 
+\i (02:35:11) setwindow pcb
+\i (02:35:11) zoom in 217.757 263.151
+\i (02:35:11) trapsize 6
+\i (02:35:13) roam y 96 
+\i (02:35:13) roam y 96
+\i (02:35:13) zoom out 
+\i (02:35:13) setwindow pcb
+\i (02:35:13) zoom out 218.287 262.646
+\i (02:35:13) trapsize 13
+\i (02:35:14) zoom out 
+\i (02:35:14) setwindow pcb
+\i (02:35:14) zoom out 217.668 263.007
+\i (02:35:14) trapsize 25
+\i (02:35:14) zoom out 
+\i (02:35:14) setwindow pcb
+\i (02:35:14) zoom out 217.669 262.987
+\i (02:35:14) trapsize 51
+\i (02:35:15) zoom in 
+\i (02:35:15) setwindow pcb
+\i (02:35:15) zoom in 217.729 263.250
+\i (02:35:15) trapsize 25
+\i (02:35:15) zoom in 
+\i (02:35:15) setwindow pcb
+\i (02:35:15) zoom in 217.739 263.240
+\i (02:35:15) trapsize 13
+\i (02:35:16) zoom in 
+\i (02:35:16) setwindow pcb
+\i (02:35:16) zoom in 217.719 263.322
+\i (02:35:16) trapsize 6
+\i (02:35:16) zoom out 
+\i (02:35:16) setwindow pcb
+\i (02:35:16) zoom out 217.720 263.353
+\i (02:35:16) trapsize 13
+\i (02:35:17) zoom out 
+\i (02:35:17) setwindow pcb
+\i (02:35:17) zoom out 217.719 263.353
+\i (02:35:17) trapsize 25
+\i (02:35:17) zoom out 
+\i (02:35:17) setwindow pcb
+\i (02:35:17) zoom out 217.720 263.352
+\i (02:35:17) trapsize 51
+\i (02:35:17) zoom out 
+\i (02:35:17) setwindow pcb
+\i (02:35:17) zoom out 217.719 263.353
+\i (02:35:17) trapsize 101
+\i (02:35:17) zoom in 
+\i (02:35:17) setwindow pcb
+\i (02:35:18) zoom in 217.720 263.353
+\i (02:35:18) trapsize 51
+\i (02:35:18) zoom in 
+\i (02:35:18) setwindow pcb
+\i (02:35:18) zoom in 217.720 263.353
+\i (02:35:18) trapsize 25
+\i (02:35:18) zoom in 
+\i (02:35:18) setwindow pcb
+\i (02:35:18) zoom in 217.721 263.353
+\i (02:35:18) trapsize 13
+\i (02:35:18) zoom out 
+\i (02:35:19) setwindow pcb
+\i (02:35:19) zoom out 217.721 263.354
+\i (02:35:19) trapsize 25
+\i (02:35:19) zoom out 
+\i (02:35:19) setwindow pcb
+\i (02:35:19) zoom out 217.722 263.353
+\i (02:35:19) trapsize 51
+\i (02:35:19) zoom out 
+\i (02:35:19) setwindow pcb
+\i (02:35:19) zoom out 217.721 263.354
+\i (02:35:19) trapsize 101
+\i (02:35:19) roam y 96 
+\i (02:35:19) roam y 96
+\i (02:35:20) roam x 96 
+\i (02:35:20) roam x 96
+\i (02:35:20) roam x 96 
+\i (02:35:20) roam x 96
+\i (02:35:20) zoom in 
+\i (02:35:20) setwindow pcb
+\i (02:35:20) zoom in 221.601 261.400
+\i (02:35:20) trapsize 51
+\i (02:35:21) roam x 96 
+\i (02:35:21) roam x 96
+\i (02:35:21) roam x 96 
+\i (02:35:21) roam x 96
+\i (02:35:23) drag_start grid 224.279 262.292
+\i (02:35:23) slide 
+\t (02:35:23) Waiting for the destination pick.
+\i (02:35:25) drag_stop grid 224.197 262.333
+\t (02:35:25) No DRC errors detected.
+\i (02:35:26) generaledit 
+\i (02:35:27) drag_start grid 222.717 262.252
+\i (02:35:27) slide 
+\t (02:35:27) Waiting for the destination pick.
+\i (02:35:28) drag_stop grid 222.717 262.434
+\t (02:35:28) No DRC errors detected.
+\i (02:35:28) generaledit 
+\i (02:35:33) drag_start grid 222.209 260.244
+\i (02:35:33) slide 
+\t (02:35:33) Waiting for the destination pick.
+\i (02:35:34) drag_stop grid 222.088 260.041
+\t (02:35:34) No DRC errors detected.
+\i (02:35:34) generaledit 
+\i (02:35:36) drag_start grid 223.041 261.116
+\i (02:35:36) slide 
+\t (02:35:36) Waiting for the destination pick.
+\i (02:35:37) drag_stop grid 223.041 260.670
+\t (02:35:37) No DRC errors detected.
+\i (02:35:38) generaledit 
+\i (02:35:39) pick grid 223.041 261.380
+\t (02:35:39) last pick:  223.000  261.400
+\i (02:35:39) add connect 
+\t (02:35:40) Pick first element.
+\i (02:35:41) pick grid 223.041 261.156
+\t (02:35:41) last pick:  223.000  261.200
+\t (02:35:41) last pick:  223.000  261.200
+\i (02:35:41) pick grid dbl 223.041 261.156
+\t (02:35:41) last pick:  223.000  261.200
+\t (02:35:41) VIA_04CIR02 used for drill.
+\t (02:35:42) No DRC errors detected.
+\t (02:35:42) Pick first element.
+\i (02:35:42) done 
+\i (02:35:43) generaledit 
+\i (02:35:44) drag_start grid 223.021 261.156
+\i (02:35:44) slide 
+\t (02:35:44) Waiting for the destination pick.
+\i (02:35:46) drag_stop grid 223.143 261.238
+\t (02:35:46) No DRC errors detected.
+\i (02:35:46) generaledit 
+\i (02:35:49) drag_start grid 223.467 261.339
+\i (02:35:49) slide 
+\t (02:35:50) Waiting for the destination pick.
+\i (02:35:51) drag_stop grid 223.366 261.339
+\t (02:35:51) No DRC errors detected.
+\i (02:35:51) generaledit 
+\i (02:35:52) roam x 96 
+\i (02:35:52) roam x 96
+\i (02:35:52) roam x 96 
+\i (02:35:52) roam x 96
+\i (02:35:56) drag_start grid 226.307 261.075
+\i (02:35:56) slide 
+\t (02:35:57) Waiting for the destination pick.
+\i (02:35:58) drag_stop grid 226.408 260.730
+\t (02:35:58) No DRC errors detected.
+\i (02:35:58) generaledit 
+\i (02:35:59) drag_start grid 227.564 260.913
+\i (02:35:59) slide 
+\t (02:35:59) Waiting for the destination pick.
+\i (02:36:01) drag_stop grid 228.863 260.730
+\t (02:36:01) No DRC errors detected.
+\i (02:36:01) generaledit 
+\i (02:36:02) drag_start grid 226.652 261.826
+\i (02:36:02) slide 
+\t (02:36:03) Waiting for the destination pick.
+\i (02:36:03) drag_stop grid 226.652 262.069
+\t (02:36:04) No DRC errors detected.
+\i (02:36:04) generaledit 
+\i (02:36:05) drag_start grid 228.274 261.866
+\i (02:36:05) slide 
+\t (02:36:05) Waiting for the destination pick.
+\i (02:36:06) drag_stop grid 228.295 262.252
+\t (02:36:06) No DRC errors detected.
+\i (02:36:06) generaledit 
+\i (02:36:07) drag_start grid 227.220 261.461
+\i (02:36:07) slide 
+\t (02:36:07) Waiting for the destination pick.
+\i (02:36:08) drag_stop grid 227.301 261.765
+\t (02:36:08) No DRC errors detected.
+\i (02:36:09) generaledit 
+\i (02:36:10) pick grid 227.443 261.136
+\t (02:36:10) last pick:  227.400  261.100
+\i (02:36:10) add connect 
+\t (02:36:11) Pick first element.
+\i (02:36:12) pick grid 227.280 261.177
+\t (02:36:12) last pick:  227.300  261.200
+\t (02:36:12) last pick:  227.300  261.200
+\i (02:36:12) pick grid dbl 227.280 261.177
+\t (02:36:12) last pick:  227.300  261.200
+\t (02:36:12) VIA_04CIR02 used for drill.
+\t (02:36:12) No DRC errors detected.
+\t (02:36:12) Pick first element.
+\i (02:36:13) done 
+\i (02:36:13) generaledit 
+\i (02:36:15) drag_start grid 227.280 261.177
+\i (02:36:16) drag_stop 227.240 261.156
+\i (02:36:17) drag_start grid 227.240 261.238
+\i (02:36:17) slide 
+\t (02:36:17) Waiting for the destination pick.
+\i (02:36:18) drag_stop grid 227.301 261.096
+\t (02:36:18) No DRC errors detected.
+\i (02:36:18) generaledit 
+\i (02:36:19) pick grid 228.214 263.144
+\t (02:36:19) last pick:  228.200  263.100
+\i (02:36:20) done 
+\i (02:36:20) generaledit 
+\i (02:36:21) save 
+\i (02:36:22) fillin yes 
+\i (02:36:23) generaledit 
+\i (02:36:29) status 
+\i (02:36:29) generaledit 
+\i (02:36:31) setwindow form.status
+\i (02:36:31) FORM status drc_update  
+\t (02:36:31) Running DRC, please wait...
+\t (02:36:31) Performing DRC...
+\t (02:36:31) Multithreaded DRC update (4 threads).
+\t (02:36:31) DRC done; 4 errors detected.
+\t (02:36:31) DRC done.
+\i (02:36:34) FORM status done  
+\i (02:36:39) setwindow pcb
+\i (02:36:39) reports 'Design Rules Check (DRC) Report' 
+\i (02:36:39) reports "Design Rules Check (DRC) Report"
+\i (02:36:39) generaledit 
+\i (02:36:45) pick grid 230.059 260.446
+\t (02:36:45) last pick:  230.100  260.400
+\i (02:36:46) save 
+\i (02:36:47) fillin yes 
+\i (02:36:47) generaledit 
+\i (02:36:51) zoom center 
+\t (02:36:51) Pick center for the new display.
+\i (02:36:51) pick 257.999 257.004 
+\t (02:36:51) last pick:  257.999  257.004
+\i (02:36:52) trapsize 51
+\i (02:36:52) generaledit 
+\i (02:36:55) waive drc 
+\t (02:36:55) Select DRC to waive.
+\i (02:36:56) pick grid 258.009 257.095
+\t (02:36:56) last pick:  258.000  257.100
+\i (02:36:56) pick grid dbl 258.009 257.095
+\t (02:36:56) last pick:  258.000  257.100
+\i (02:36:57) zoom center 
+\t (02:36:57) Pick center for the new display.
+\i (02:36:57) pick 200.500 265.920 
+\t (02:36:57) last pick:  200.500  265.920
+\i (02:36:57) trapsize 51
+\i (02:36:59) pick grid 200.328 266.133
+\t (02:36:59) last pick:  200.300  266.100
+\i (02:36:59) pick grid dbl 200.328 266.133
+\t (02:36:59) last pick:  200.300  266.100
+\i (02:37:01) zoom center 
+\t (02:37:01) Pick center for the new display.
+\i (02:37:01) pick 206.773 293.178 
+\t (02:37:01) last pick:  206.773  293.178
+\i (02:37:01) trapsize 51
+\i (02:37:07) pick grid 206.682 293.797
+\t (02:37:07) last pick:  206.700  293.800
+\i (02:37:07) pick grid dbl 206.682 293.797
+\t (02:37:07) last pick:  206.700  293.800
+\i (02:37:08) pick grid 206.580 293.168
+\t (02:37:08) last pick:  206.600  293.200
+\i (02:37:08) pick grid dbl 206.580 293.168
+\t (02:37:09) last pick:  206.600  293.200
+\i (02:37:10) zoom center 
+\t (02:37:11) Pick center for the new display.
+\i (02:37:11) pick 216.027 292.122 
+\t (02:37:11) last pick:  216.027  292.122
+\i (02:37:11) trapsize 51
+\i (02:37:12) pick grid 216.240 292.315
+\t (02:37:12) last pick:  216.200  292.300
+\i (02:37:12) pick grid dbl 216.240 292.315
+\t (02:37:12) last pick:  216.200  292.300
+\i (02:37:13) done 
+\i (02:37:13) generaledit 
+\i (02:37:15) save 
+\i (02:37:16) fillin yes 
+\i (02:37:16) generaledit 
+\i (02:37:16) setwindow text
+\i (02:37:16) close 
+\i (02:37:19) setwindow pcb
+\i (02:37:19) status 
+\i (02:37:20) generaledit 
+\i (02:37:21) setwindow form.status
+\i (02:37:21) FORM status drc_update  
+\t (02:37:21) Running DRC, please wait...
+\t (02:37:21) Performing DRC...
+\t (02:37:21) Multithreaded DRC update (4 threads).
+\t (02:37:21) No DRC errors detected.
+\t (02:37:21) DRC done.
+\i (02:37:22) FORM status done  
+\i (02:37:23) setwindow pcb
+\i (02:37:23) pick grid 213.664 295.408
+\t (02:37:23) last pick:  213.700  295.400
+\i (02:37:23) zoom out 
+\i (02:37:23) setwindow pcb
+\i (02:37:23) zoom out 213.664 295.408
+\i (02:37:23) trapsize 101
+\i (02:37:24) save 
+\i (02:37:25) fillin yes 
+\i (02:37:25) generaledit 
+\i (02:42:10) xdehilite 
+\i (02:42:13) xrefdes L1 
+\i (02:42:13) xname_flush 
+\t (02:42:13) Symbol "L1" dehighlighted.
+\i (02:42:13) done 
+\i (02:42:13) generaledit 
+\i (02:43:34) xhilite 
+\i (02:43:34) xrefdes C12 
+\i (02:43:34) xname_flush 
+\i (02:43:34) trapsize 39
+\w (02:43:34) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C12" highlighted.
+\i (02:43:34) done 
+\i (02:43:35) generaledit 
+\i (02:43:35) xdehilite 
+\i (02:43:35) xrefdes C12 
+\i (02:43:35) xname_flush 
+\t (02:43:35) Symbol "C12" dehighlighted.
+\i (02:43:35) done 
+\i (02:43:35) xhilite 
+\i (02:43:35) xrefdes C12 
+\i (02:43:35) xname_flush 
+\i (02:43:35) trapsize 39
+\w (02:43:35) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C12" highlighted.
+\i (02:43:35) done 
+\i (02:43:35) generaledit 
+\i (02:44:08) xdehilite 
+\i (02:44:08) xrefdes C12 
+\i (02:44:08) xname_flush 
+\t (02:44:08) Symbol "C12" dehighlighted.
+\i (02:44:08) done 
+\i (02:44:08) generaledit 
+\i (02:44:36) xhilite 
+\i (02:44:36) xrefdes C33 
+\i (02:44:36) xname_flush 
+\i (02:44:36) trapsize 33
+\w (02:44:36) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C33" highlighted.
+\i (02:44:36) done 
+\i (02:44:36) generaledit 
+\i (02:44:36) xdehilite 
+\i (02:44:37) xrefdes C33 
+\i (02:44:37) xname_flush 
+\t (02:44:37) Symbol "C33" dehighlighted.
+\i (02:44:37) done 
+\i (02:44:37) xhilite 
+\i (02:44:37) xrefdes C33 
+\i (02:44:37) xname_flush 
+\i (02:44:37) trapsize 33
+\w (02:44:37) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C33" highlighted.
+\i (02:44:37) done 
+\i (02:44:37) generaledit 
+\i (02:44:40) xdehilite 
+\i (02:44:41) xrefdes C33 
+\i (02:44:41) xname_flush 
+\t (02:44:41) Symbol "C33" dehighlighted.
+\i (02:44:41) done 
+\i (02:44:41) generaledit 
+\i (02:44:42) xhilite 
+\i (02:44:42) xrefdes C33.1 
+\i (02:44:42) xname_flush 
+\i (02:44:42) trapsize 10
+\w (02:44:42) WARNING(SPMHFN-61): Disable custom colors is enabled. Pin "C33.1" highlighted.
+\i (02:44:42) done 
+\i (02:44:42) generaledit 
+\i (02:44:49) xdehilite 
+\i (02:44:49) xrefdes C33.1 
+\i (02:44:49) xname_flush 
+\t (02:44:49) Pin "C33.1" dehighlighted.
+\i (02:44:49) done 
+\i (02:44:49) xhilite 
+\i (02:44:49) xrefdes C33.2 
+\i (02:44:49) xname_flush 
+\i (02:44:49) trapsize 10
+\w (02:44:49) WARNING(SPMHFN-61): Disable custom colors is enabled. Pin "C33.2" highlighted.
+\i (02:44:49) done 
+\i (02:44:49) generaledit 
+\i (02:44:50) xdehilite 
+\i (02:44:50) xrefdes C33.2 
+\i (02:44:50) xname_flush 
+\t (02:44:50) Pin "C33.2" dehighlighted.
+\i (02:44:50) done 
+\i (02:44:50) xhilite 
+\i (02:44:51) xrefdes C33 
+\i (02:44:51) xname_flush 
+\i (02:44:51) trapsize 33
+\w (02:44:51) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C33" highlighted.
+\i (02:44:51) done 
+\i (02:44:51) generaledit 
+\i (02:44:52) xhilite 
+\i (02:44:52) xrefdes C34.1 
+\i (02:44:52) xname_flush 
+\i (02:44:52) trapsize 9
+\w (02:44:52) WARNING(SPMHFN-61): Disable custom colors is enabled. Pin "C34.1" highlighted.
+\i (02:44:52) done 
+\i (02:44:52) generaledit 
+\i (02:44:53) xhilite 
+\i (02:44:54) xrefdes C34 
+\i (02:44:54) xname_flush 
+\i (02:44:54) trapsize 23
+\w (02:44:54) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C34" highlighted.
+\i (02:44:54) done 
+\i (02:44:54) generaledit 
+\i (02:45:00) xhilite 
+\i (02:45:00) xrefdes C17 
+\i (02:45:00) xname_flush 
+\i (02:45:00) trapsize 33
+\w (02:45:00) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C17" highlighted.
+\i (02:45:00) done 
+\i (02:45:00) generaledit 
+\i (02:45:02) xhilite 
+\i (02:45:03) xrefdes C18 
+\i (02:45:03) xname_flush 
+\i (02:45:03) trapsize 36
+\w (02:45:03) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C18" highlighted.
+\i (02:45:03) done 
+\i (02:45:03) generaledit 
+\i (02:45:40) xdehilite 
+\i (02:45:40) xrefdes C17 
+\i (02:45:40) xrefdes C18 
+\i (02:45:40) xname_flush 
+\t (02:45:40) Symbol "C17" dehighlighted.
+\t (02:45:40) Symbol "C18" dehighlighted.
+\i (02:45:40) done 
+\i (02:45:40) generaledit 
+\i (02:45:44) xdehilite 
+\i (02:45:44) xrefdes C34 
+\i (02:45:44) xrefdes C33 
+\i (02:45:44) xname_flush 
+\t (02:45:44) Symbol "C34" dehighlighted.
+\t (02:45:44) Symbol "C33" dehighlighted.
+\i (02:45:44) done 
+\i (02:45:44) generaledit 
+\i (02:45:45) xhilite 
+\i (02:45:45) xrefdes C34.1 
+\i (02:45:45) xname_flush 
+\i (02:45:45) trapsize 9
+\w (02:45:45) WARNING(SPMHFN-61): Disable custom colors is enabled. Pin "C34.1" highlighted.
+\i (02:45:45) done 
+\i (02:45:45) generaledit 
+\i (02:45:51) xdehilite 
+\i (02:45:51) xrefdes C34.1 
+\i (02:45:51) xname_flush 
+\t (02:45:51) Pin "C34.1" dehighlighted.
+\i (02:45:51) done 
+\i (02:45:51) xhilite 
+\i (02:45:51) xrefdes C34 
+\i (02:45:51) xname_flush 
+\i (02:45:51) trapsize 23
+\w (02:45:51) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C34" highlighted.
+\i (02:45:51) done 
+\i (02:45:51) generaledit 
+\i (02:46:05) xdehilite 
+\i (02:46:05) xrefdes C34 
+\i (02:46:05) xname_flush 
+\t (02:46:05) Symbol "C34" dehighlighted.
+\i (02:46:05) done 
+\i (02:46:05) generaledit 
+\i (02:46:11) xhilite 
+\i (02:46:11) xrefdes C17.2 
+\i (02:46:11) xname_flush 
+\i (02:46:11) trapsize 10
+\w (02:46:11) WARNING(SPMHFN-61): Disable custom colors is enabled. Pin "C17.2" highlighted.
+\i (02:46:11) done 
+\i (02:46:11) generaledit 
+\i (02:46:16) xdehilite 
+\i (02:46:16) xrefdes C17.2 
+\i (02:46:16) xname_flush 
+\t (02:46:16) Pin "C17.2" dehighlighted.
+\i (02:46:16) done 
+\i (02:46:16) xhilite 
+\i (02:46:16) xrefdes C17 
+\i (02:46:16) xname_flush 
+\i (02:46:16) trapsize 33
+\w (02:46:16) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C17" highlighted.
+\i (02:46:16) done 
+\i (02:46:16) generaledit 
+\i (02:46:18) xhilite 
+\i (02:46:18) xrefdes C18 
+\i (02:46:18) xname_flush 
+\i (02:46:18) trapsize 36
+\w (02:46:18) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C18" highlighted.
+\i (02:46:18) done 
+\i (02:46:18) generaledit 
+\i (02:47:28) xhilite 
+\i (02:47:28) xrefdes R1 
+\i (02:47:28) xname_flush 
+\i (02:47:28) trapsize 47
+\w (02:47:28) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "R1" highlighted.
+\i (02:47:28) done 
+\i (02:47:28) generaledit 
+\i (02:47:28) xdehilite 
+\i (02:47:28) xrefdes R1 
+\i (02:47:28) xname_flush 
+\t (02:47:28) Symbol "R1" dehighlighted.
+\i (02:47:28) done 
+\i (02:47:28) xhilite 
+\i (02:47:28) xrefdes R1 
+\i (02:47:28) xname_flush 
+\i (02:47:28) trapsize 47
+\w (02:47:28) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "R1" highlighted.
+\i (02:47:28) done 
+\i (02:47:29) generaledit 
+\i (02:47:31) xdehilite 
+\i (02:47:32) xrefdes R1 
+\i (02:47:32) xname_flush 
+\t (02:47:32) Symbol "R1" dehighlighted.
+\i (02:47:32) done 
+\i (02:47:32) xhilite 
+\i (02:47:32) xrefdes R1 
+\i (02:47:32) xname_flush 
+\i (02:47:32) trapsize 47
+\w (02:47:32) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "R1" highlighted.
+\i (02:47:32) done 
+\i (02:47:32) generaledit 
+\i (02:47:34) xdehilite 
+\i (02:47:34) xrefdes R1 
+\i (02:47:34) xname_flush 
+\t (02:47:34) Symbol "R1" dehighlighted.
+\i (02:47:34) done 
+\i (02:47:34) xhilite 
+\i (02:47:34) xrefdes R1 
+\i (02:47:34) xname_flush 
+\i (02:47:34) trapsize 47
+\w (02:47:34) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "R1" highlighted.
+\i (02:47:34) done 
+\i (02:47:34) generaledit 
+\i (02:47:55) xhilite 
+\i (02:47:55) xrefdes R63 
+\i (02:47:55) xname_flush 
+\i (02:47:55) trapsize 27
+\w (02:47:55) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "R63" highlighted.
+\i (02:47:55) done 
+\i (02:47:55) generaledit 
+\i (02:47:56) xdehilite 
+\i (02:47:56) xrefdes R63 
+\i (02:47:56) xname_flush 
+\t (02:47:56) Symbol "R63" dehighlighted.
+\i (02:47:56) done 
+\i (02:47:56) xhilite 
+\i (02:47:56) xrefdes R63 
+\i (02:47:56) xname_flush 
+\i (02:47:56) trapsize 27
+\w (02:47:56) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "R63" highlighted.
+\i (02:47:56) done 
+\i (02:47:56) generaledit 
+\i (02:48:08) xhilite 
+\i (02:48:08) xrefdes R1 
+\i (02:48:08) xname_flush 
+\i (02:48:08) trapsize 47
+\w (02:48:08) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "R1" highlighted.
+\i (02:48:08) done 
+\i (02:48:08) generaledit 
+\i (02:48:20) xhilite 
+\i (02:48:21) xrefdes R65 
+\i (02:48:21) xname_flush 
+\i (02:48:21) trapsize 28
+\w (02:48:21) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "R65" highlighted.
+\i (02:48:21) done 
+\i (02:48:21) generaledit 
+\i (02:49:25) xdehilite 
+\i (02:49:25) xrefdes R1 
+\i (02:49:25) xname_flush 
+\t (02:49:25) Symbol "R1" dehighlighted.
+\i (02:49:25) done 
+\i (02:49:25) generaledit 
+\i (02:50:25) xhilite 
+\i (02:50:26) xrefdes R1 
+\i (02:50:26) xname_flush 
+\i (02:50:26) trapsize 47
+\w (02:50:26) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "R1" highlighted.
+\i (02:50:26) done 
+\i (02:50:26) generaledit 
+\i (02:50:39) xdehilite 
+\i (02:50:40) xrefdes R1 
+\i (02:50:40) xname_flush 
+\t (02:50:40) Symbol "R1" dehighlighted.
+\i (02:50:40) done 
+\i (02:50:40) generaledit 
+\i (02:50:42) xdehilite 
+\i (02:50:43) xrefdes R65 
+\i (02:50:43) xrefdes R63 
+\i (02:50:43) xname_flush 
+\t (02:50:43) Symbol "R65" dehighlighted.
+\t (02:50:43) Symbol "R63" dehighlighted.
+\i (02:50:43) done 
+\i (02:50:43) xhilite 
+\i (02:50:43) xrefdes R63 
+\i (02:50:43) xname_flush 
+\i (02:50:43) trapsize 27
+\w (02:50:43) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "R63" highlighted.
+\i (02:50:43) done 
+\i (02:50:43) generaledit 
+\i (02:50:44) xdehilite 
+\i (02:50:44) xrefdes R63 
+\i (02:50:44) xname_flush 
+\t (02:50:44) Symbol "R63" dehighlighted.
+\i (02:50:44) done 
+\i (02:50:44) generaledit 
+\i (02:50:46) xhilite 
+\i (02:50:46) xrefdes R63 
+\i (02:50:46) xname_flush 
+\i (02:50:46) trapsize 27
+\w (02:50:46) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "R63" highlighted.
+\i (02:50:46) done 
+\i (02:50:46) generaledit 
+\i (02:50:47) xdehilite 
+\i (02:50:47) xrefdes R63 
+\i (02:50:47) xname_flush 
+\t (02:50:47) Symbol "R63" dehighlighted.
+\i (02:50:47) done 
+\i (02:50:47) xhilite 
+\i (02:50:47) xrefdes R65 
+\i (02:50:47) xname_flush 
+\i (02:50:47) trapsize 28
+\w (02:50:47) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "R65" highlighted.
+\i (02:50:47) done 
+\i (02:50:47) generaledit 
+\i (02:50:49) xhilite 
+\i (02:50:49) xrefdes R63 
+\i (02:50:49) xname_flush 
+\i (02:50:49) trapsize 28
+\w (02:50:49) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "R63" highlighted.
+\i (02:50:49) done 
+\i (02:50:49) generaledit 
+\i (02:51:37) xhilite 
+\i (02:51:37) xrefdes C3 
+\i (02:51:37) xname_flush 
+\i (02:51:37) trapsize 23
+\w (02:51:37) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C3" highlighted.
+\i (02:51:37) done 
+\i (02:51:38) generaledit 
+\i (02:51:38) xdehilite 
+\i (02:51:38) xrefdes C3 
+\i (02:51:38) xname_flush 
+\t (02:51:38) Symbol "C3" dehighlighted.
+\i (02:51:38) done 
+\i (02:51:38) xhilite 
+\i (02:51:38) xrefdes C3 
+\i (02:51:38) xname_flush 
+\i (02:51:38) trapsize 23
+\w (02:51:38) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C3" highlighted.
+\i (02:51:38) done 
+\i (02:51:38) generaledit 
+\i (02:51:56) xhilite 
+\i (02:51:56) xrefdes C9 
+\i (02:51:56) xname_flush 
+\i (02:51:56) trapsize 32
+\w (02:51:56) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C9" highlighted.
+\i (02:51:56) done 
+\i (02:51:56) generaledit 
+\i (02:51:56) xdehilite 
+\i (02:51:56) xrefdes C9 
+\i (02:51:56) xname_flush 
+\t (02:51:56) Symbol "C9" dehighlighted.
+\i (02:51:56) done 
+\i (02:51:56) xhilite 
+\i (02:51:56) xrefdes C9 
+\i (02:51:56) xname_flush 
+\i (02:51:56) trapsize 32
+\w (02:51:56) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C9" highlighted.
+\i (02:51:56) done 
+\i (02:51:57) generaledit 
+\i (02:52:14) xdehilite 
+\i (02:52:14) xrefdes C9 
+\i (02:52:14) xname_flush 
+\t (02:52:14) Symbol "C9" dehighlighted.
+\i (02:52:14) done 
+\i (02:52:14) generaledit 
+\i (02:52:15) xhilite 
+\i (02:52:15) xrefdes C9.1 
+\i (02:52:15) xname_flush 
+\i (02:52:15) trapsize 9
+\w (02:52:15) WARNING(SPMHFN-61): Disable custom colors is enabled. Pin "C9.1" highlighted.
+\i (02:52:15) done 
+\i (02:52:15) generaledit 
+\i (02:52:16) xdehilite 
+\i (02:52:16) xrefdes C9.1 
+\i (02:52:16) xname_flush 
+\t (02:52:16) Pin "C9.1" dehighlighted.
+\i (02:52:16) done 
+\i (02:52:16) xhilite 
+\i (02:52:16) xrefdes C9 
+\i (02:52:16) xname_flush 
+\i (02:52:16) trapsize 32
+\w (02:52:16) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C9" highlighted.
+\i (02:52:16) done 
+\i (02:52:16) generaledit 
+\i (02:52:18) xhilite 
+\i (02:52:18) xrefdes C16 
+\i (02:52:18) xname_flush 
+\i (02:52:18) trapsize 39
+\w (02:52:18) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C16" highlighted.
+\i (02:52:18) done 
+\i (02:52:18) generaledit 
+\i (02:52:47) xhilite 
+\i (02:52:47) xrefdes C20 
+\i (02:52:47) xname_flush 
+\i (02:52:47) trapsize 47
+\w (02:52:47) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C20" highlighted.
+\i (02:52:47) done 
+\i (02:52:47) generaledit 
+\i (02:52:47) xdehilite 
+\i (02:52:47) xrefdes C20 
+\i (02:52:47) xname_flush 
+\t (02:52:47) Symbol "C20" dehighlighted.
+\i (02:52:47) done 
+\i (02:52:47) xhilite 
+\i (02:52:48) xrefdes C20 
+\i (02:52:48) xname_flush 
+\i (02:52:48) trapsize 47
+\w (02:52:48) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C20" highlighted.
+\i (02:52:48) done 
+\i (02:52:48) generaledit 
+\i (02:53:18) xhilite 
+\i (02:53:19) xrefdes C30 
+\i (02:53:19) xname_flush 
+\i (02:53:19) trapsize 28
+\w (02:53:19) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C30" highlighted.
+\i (02:53:19) done 
+\i (02:53:19) generaledit 
+\i (02:53:19) xdehilite 
+\i (02:53:19) xrefdes C30 
+\i (02:53:19) xname_flush 
+\t (02:53:19) Symbol "C30" dehighlighted.
+\i (02:53:19) done 
+\i (02:53:19) xhilite 
+\i (02:53:19) xrefdes C30 
+\i (02:53:19) xname_flush 
+\i (02:53:19) trapsize 28
+\w (02:53:19) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C30" highlighted.
+\i (02:53:19) done 
+\i (02:53:19) generaledit 
+\i (02:53:27) xdehilite 
+\i (02:53:27) xrefdes C30 
+\i (02:53:27) xname_flush 
+\t (02:53:27) Symbol "C30" dehighlighted.
+\i (02:53:27) done 
+\i (02:53:27) xhilite 
+\i (02:53:27) xrefdes C30 
+\i (02:53:27) xname_flush 
+\i (02:53:27) trapsize 28
+\w (02:53:27) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C30" highlighted.
+\i (02:53:27) done 
+\i (02:53:27) generaledit 
+\i (02:53:28) xdehilite 
+\i (02:53:28) xrefdes C30 
+\i (02:53:28) xname_flush 
+\t (02:53:28) Symbol "C30" dehighlighted.
+\i (02:53:28) done 
+\i (02:53:28) generaledit 
+\i (02:53:31) xhilite 
+\i (02:53:31) xrefdes C30 
+\i (02:53:31) xname_flush 
+\i (02:53:31) trapsize 28
+\w (02:53:31) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C30" highlighted.
+\i (02:53:31) done 
+\i (02:53:31) generaledit 
+\i (02:53:55) xhilite 
+\i (02:53:55) xrefdes C43 
+\i (02:53:55) xname_flush 
+\i (02:53:55) trapsize 39
+\w (02:53:55) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C43" highlighted.
+\i (02:53:55) done 
+\i (02:53:55) generaledit 
+\i (02:53:55) xdehilite 
+\i (02:53:56) xrefdes C43 
+\i (02:53:56) xname_flush 
+\t (02:53:56) Symbol "C43" dehighlighted.
+\i (02:53:56) done 
+\i (02:53:56) xhilite 
+\i (02:53:56) xrefdes C43 
+\i (02:53:56) xname_flush 
+\i (02:53:56) trapsize 39
+\w (02:53:56) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C43" highlighted.
+\i (02:53:56) done 
+\i (02:53:56) generaledit 
+\i (02:54:39) xhilite 
+\i (02:54:39) xrefdes C46 
+\i (02:54:39) xname_flush 
+\i (02:54:39) trapsize 39
+\w (02:54:39) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C46" highlighted.
+\i (02:54:39) done 
+\i (02:54:39) generaledit 
+\i (02:54:40) xdehilite 
+\i (02:54:40) xrefdes C46 
+\i (02:54:40) xname_flush 
+\t (02:54:40) Symbol "C46" dehighlighted.
+\i (02:54:40) done 
+\i (02:54:40) xhilite 
+\i (02:54:40) xrefdes C46 
+\i (02:54:40) xname_flush 
+\i (02:54:40) trapsize 39
+\w (02:54:40) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C46" highlighted.
+\i (02:54:40) done 
+\i (02:54:40) generaledit 
+\i (02:55:28) xhilite 
+\i (02:55:28) xrefdes C52 
+\i (02:55:28) xname_flush 
+\i (02:55:28) trapsize 28
+\w (02:55:28) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C52" highlighted.
+\i (02:55:28) done 
+\i (02:55:28) generaledit 
+\i (02:55:29) xdehilite 
+\i (02:55:29) xrefdes C52 
+\i (02:55:29) xname_flush 
+\t (02:55:29) Symbol "C52" dehighlighted.
+\i (02:55:29) done 
+\i (02:55:29) xhilite 
+\i (02:55:29) xrefdes C52 
+\i (02:55:29) xname_flush 
+\i (02:55:29) trapsize 28
+\w (02:55:29) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C52" highlighted.
+\i (02:55:29) done 
+\i (02:55:29) generaledit 
+\i (02:55:31) xdehilite 
+\i (02:55:31) xrefdes C52 
+\i (02:55:31) xname_flush 
+\t (02:55:31) Symbol "C52" dehighlighted.
+\i (02:55:31) done 
+\i (02:55:31) generaledit 
+\i (02:55:33) xhilite 
+\i (02:55:33) xrefdes C52 
+\i (02:55:33) xname_flush 
+\i (02:55:33) trapsize 28
+\w (02:55:33) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C52" highlighted.
+\i (02:55:33) done 
+\i (02:55:33) generaledit 
+\i (02:55:36) xhilite 
+\i (02:55:37) xrefdes C53 
+\i (02:55:37) xname_flush 
+\i (02:55:37) trapsize 28
+\w (02:55:37) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C53" highlighted.
+\i (02:55:37) done 
+\i (02:55:37) generaledit 
+\i (02:55:38) xhilite 
+\i (02:55:38) xrefdes C54 
+\i (02:55:38) xname_flush 
+\i (02:55:38) trapsize 28
+\w (02:55:38) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C54" highlighted.
+\i (02:55:38) done 
+\i (02:55:38) generaledit 
+\i (02:55:42) xhilite 
+\i (02:55:42) xrefdes C55 
+\i (02:55:42) xname_flush 
+\i (02:55:42) trapsize 28
+\w (02:55:42) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C55" highlighted.
+\i (02:55:42) done 
+\i (02:55:42) generaledit 
+\i (02:55:44) xhilite 
+\i (02:55:44) xrefdes C56 
+\i (02:55:44) xname_flush 
+\i (02:55:44) trapsize 28
+\w (02:55:44) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C56" highlighted.
+\i (02:55:44) done 
+\i (02:55:44) generaledit 
+\i (02:55:47) xhilite 
+\i (02:55:47) xrefdes C57 
+\i (02:55:47) xname_flush 
+\i (02:55:47) trapsize 28
+\w (02:55:47) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C57" highlighted.
+\i (02:55:47) done 
+\i (02:55:47) generaledit 
+\i (02:56:12) xhilite 
+\i (02:56:13) xrefdes C59 
+\i (02:56:13) xname_flush 
+\i (02:56:13) trapsize 39
+\w (02:56:13) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C59" highlighted.
+\i (02:56:13) done 
+\i (02:56:13) generaledit 
+\i (02:56:13) xdehilite 
+\i (02:56:13) xrefdes C59 
+\i (02:56:13) xname_flush 
+\t (02:56:13) Symbol "C59" dehighlighted.
+\i (02:56:13) done 
+\i (02:56:13) xhilite 
+\i (02:56:13) xrefdes C59 
+\i (02:56:13) xname_flush 
+\i (02:56:13) trapsize 39
+\w (02:56:13) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C59" highlighted.
+\i (02:56:13) done 
+\i (02:56:13) generaledit 
+\i (02:56:17) xdehilite 
+\i (02:56:17) xrefdes C59 
+\i (02:56:17) xname_flush 
+\t (02:56:17) Symbol "C59" dehighlighted.
+\i (02:56:17) done 
+\i (02:56:17) generaledit 
+\i (02:56:21) xhilite 
+\i (02:56:21) xrefdes C59 
+\i (02:56:21) xname_flush 
+\i (02:56:21) trapsize 39
+\w (02:56:21) WARNING(SPMHFN-61): Disable custom colors is enabled. Symbol "C59" highlighted.
+\i (02:56:21) done 
+\i (02:56:21) generaledit 
+\i (02:56:32) xdehilite 
+\i (02:56:32) xrefdes C59 
+\i (02:56:32) xname_flush 
+\t (02:56:32) Symbol "C59" dehighlighted.
+\i (02:56:32) done 
+\i (02:56:32) generaledit 
+\i (02:57:28) pick grid 199.707 279.974
+\t (02:57:28) last pick:  199.700  280.000
+\i (02:57:31) netin 
+\i (02:57:32) setwindow form.niparams
+\i (02:57:32) FORM niparams import  
+\t (02:57:32) Starting Cadence Logic Import...
+\w (02:57:34) WARNING(SPMHGE-269): netrev had warnings, use Viewlog to review the log file.
+\t (02:57:34) Opening existing design...
+\i (02:57:34) setwindow pcb
+\i (02:57:34) trapsize 39
+\i (02:57:36) generaledit 
+\i (02:57:37) setwindow text
+\i (02:57:37) close 
+\i (02:57:39) setwindow pcb
+\i (02:57:39) pick grid 199.707 279.819
+\t (02:57:39) last pick:  199.700  279.800
+\i (02:57:40) save 
+\i (02:57:42) fillin yes 
+\i (02:57:42) generaledit 
+\i (02:57:44) status 
+\i (02:57:44) generaledit 
+\i (02:57:46) setwindow form.status
+\i (02:57:46) FORM status drc_update  
+\t (02:57:46) Running DRC, please wait...
+\t (02:57:46) Performing DRC...
+\t (02:57:46) Multithreaded DRC update (4 threads).
+\t (02:57:47) No DRC errors detected.
+\t (02:57:47) DRC done.
+\i (02:57:48) FORM status done  
+\i (02:57:54) setwindow form.vf_vis
+\i (02:57:54) FORM vf_vis colorview_list Film: silk_top 
+\i (02:57:55) setwindow pcb
+\i (02:57:55) pick grid 205.191 278.529
+\t (02:57:55) last pick:  205.200  278.500
+\i (02:57:55) zoom out 1 
+\i (02:57:55) setwindow pcb
+\i (02:57:55) zoom out 205.191 278.529
+\i (02:57:55) trapsize 78
+\i (02:57:55) zoom out 1 
+\i (02:57:55) setwindow pcb
+\i (02:57:55) zoom out 205.191 278.530
+\i (02:57:55) trapsize 155
+\i (02:57:55) zoom out 1 
+\i (02:57:55) setwindow pcb
+\i (02:57:55) zoom out 205.192 278.530
+\i (02:57:55) trapsize 311
+\i (02:57:55) zoom out 1 
+\i (02:57:55) setwindow pcb
+\i (02:57:55) zoom out 205.191 278.530
+\i (02:57:55) trapsize 621
+\i (02:57:55) zoom out 1 
+\i (02:57:55) setwindow pcb
+\i (02:57:55) zoom out 204.943 279.276
+\i (02:57:55) trapsize 1243
+\i (02:57:55) zoom out 1 
+\i (02:57:55) setwindow pcb
+\i (02:57:55) zoom out 204.944 279.275
+\i (02:57:55) trapsize 2486
+\i (02:57:55) zoom out 1 
+\i (02:57:55) setwindow pcb
+\i (02:57:55) zoom out 273.354 279.276
+\i (02:57:55) trapsize 4971
+\i (02:57:55) zoom out 1 
+\i (02:57:55) setwindow pcb
+\i (02:57:55) zoom out 646.708 279.276
+\i (02:57:55) trapsize 9943
+\i (02:57:56) zoom in 1 
+\i (02:57:56) setwindow pcb
+\i (02:57:56) zoom in 1393.417 457.419
+\i (02:57:56) trapsize 4971
+\i (02:57:56) zoom in 1 
+\i (02:57:56) setwindow pcb
+\i (02:57:56) zoom in 1393.417 457.420
+\i (02:57:56) trapsize 2486
+\i (02:57:56) zoom in 1 
+\i (02:57:56) setwindow pcb
+\i (02:57:56) zoom in 1393.417 457.420
+\i (02:57:56) trapsize 1243
+\i (02:57:57) zoom fit 
+\i (02:57:57) trapsize 611
+\i (02:57:59) roam y 96 
+\i (02:57:59) roam y 96
+\i (02:58:00) pick grid 223.386 207.494
+\t (02:58:00) last pick:  223.400  207.500
+\i (02:58:01) zoom in 
+\i (02:58:01) setwindow pcb
+\i (02:58:01) zoom in 223.386 207.494
+\i (02:58:01) trapsize 305
+\i (02:58:01) roam x 96 
+\i (02:58:01) roam x 96
+\i (02:58:02) roam x 96 
+\i (02:58:02) roam x 96
+\i (02:58:02) roam y -96 
+\i (02:58:02) roam y -96
+\i (02:58:03) roam y -96 
+\i (02:58:03) roam y -96
+\i (02:58:03) roam y -96 
+\i (02:58:03) roam y -96
+\i (02:58:03) roam y -96 
+\i (02:58:03) roam y -96
+\i (02:58:03) roam x -96 
+\i (02:58:03) roam x -96
+\i (02:58:03) roam x -96 
+\i (02:58:03) roam x -96
+\i (02:58:04) roam y -96 
+\i (02:58:04) roam y -96
+\i (02:58:05) roam y -96 
+\i (02:58:05) roam y -96
+\i (02:58:05) roam y -96 
+\i (02:58:05) roam y -96
+\i (02:58:05) roam y -96 
+\i (02:58:05) roam y -96
+\i (02:58:05) roam y -96 
+\i (02:58:05) roam y -96
+\i (02:58:05) roam y -96 
+\i (02:58:05) roam y -96
+\i (02:58:05) roam y -96 
+\i (02:58:05) roam y -96
+\i (02:58:06) roam x -96 
+\i (02:58:06) roam x -96
+\i (02:58:06) roam x 96 
+\i (02:58:06) roam x 96
+\i (02:58:06) roam x 96 
+\i (02:58:06) roam x 96
+\i (02:58:07) roam y 96 
+\i (02:58:07) roam y 96
+\i (02:58:07) roam y 96 
+\i (02:58:07) roam y 96
+\i (02:58:07) roam y 96 
+\i (02:58:07) roam y 96
+\i (02:58:07) roam y 96 
+\i (02:58:07) roam y 96
+\i (02:58:07) roam y 96 
+\i (02:58:07) roam y 96
+\i (02:58:07) roam y 96 
+\i (02:58:07) roam y 96
+\i (02:58:07) roam y 96 
+\i (02:58:07) roam y 96
+\i (02:58:07) roam y 96 
+\i (02:58:07) roam y 96
+\i (02:58:08) roam y 96 
+\i (02:58:08) roam y 96
+\i (02:58:08) roam y 96 
+\i (02:58:08) roam y 96
+\i (02:58:08) roam y 96 
+\i (02:58:08) roam y 96
+\i (02:58:08) roam x -96 
+\i (02:58:08) roam x -96
+\i (02:58:08) roam x -96 
+\i (02:58:08) roam x -96
+\i (02:58:09) roam y 96 
+\i (02:58:09) roam y 96
+\i (02:58:09) roam x 96 
+\i (02:58:09) roam x 96
+\i (02:58:09) roam y -96 
+\i (02:58:09) roam y -96
+\i (02:58:09) roam y -96 
+\i (02:58:09) roam y -96
+\i (02:58:09) roam y -96 
+\i (02:58:09) roam y -96
+\i (02:58:10) roam x 96 
+\i (02:58:10) roam x 96
+\i (02:58:10) roam y -96 
+\i (02:58:10) roam y -96
+\i (02:58:11) roam y -96 
+\i (02:58:11) roam y -96
+\i (02:58:11) roam y -96 
+\i (02:58:11) roam y -96
+\i (02:58:11) roam y -96 
+\i (02:58:11) roam y -96
+\i (02:58:11) roam y -96 
+\i (02:58:11) roam y -96
+\i (02:58:11) roam y -96 
+\i (02:58:11) roam y -96
+\i (02:58:11) roam y -96 
+\i (02:58:11) roam y -96
+\i (02:58:14) setwindow form.vf_vis
+\i (02:58:14) FORM vf_vis colorview_list Film: silk_top 
+\i (02:58:16) FORM vf_vis colorview_list Film: silk_bottom 
+\i (02:58:17) setwindow pcb
+\i (02:58:17) pick grid 242.923 286.170
+\t (02:58:17) last pick:  242.900  286.200
+\i (02:58:18) roam y 96 
+\i (02:58:18) roam y 96
+\i (02:58:18) roam y 96 
+\i (02:58:18) roam y 96
+\i (02:58:18) roam x -96 
+\i (02:58:18) roam x -96
+\i (02:58:19) roam y 96 
+\i (02:58:19) roam y 96
+\i (02:58:19) roam y 96 
+\i (02:58:19) roam y 96
+\i (02:58:19) roam x -96 
+\i (02:58:19) roam x -96
+\i (02:58:19) roam y -96 
+\i (02:58:19) roam y -96
+\i (02:58:19) roam y -96 
+\i (02:58:19) roam y -96
+\i (02:58:20) roam y -96 
+\i (02:58:20) roam y -96
+\i (02:58:20) roam y -96 
+\i (02:58:20) roam y -96
+\i (02:58:20) roam y -96 
+\i (02:58:20) roam y -96
+\i (02:58:20) roam y -96 
+\i (02:58:20) roam y -96
+\i (02:58:20) roam y -96 
+\i (02:58:20) roam y -96
+\i (02:58:20) roam x 96 
+\i (02:58:21) roam x 96
+\i (02:58:21) roam y 96 
+\i (02:58:21) roam y 96
+\i (02:58:21) roam x 96 
+\i (02:58:21) roam x 96
+\i (02:58:21) roam x 96 
+\i (02:58:21) roam x 96
+\i (02:58:21) roam y 96 
+\i (02:58:21) roam y 96
+\i (02:58:21) roam y 96 
+\i (02:58:21) roam y 96
+\i (02:58:22) roam y 96 
+\i (02:58:22) roam y 96
+\i (02:58:22) roam y 96 
+\i (02:58:22) roam y 96
+\i (02:58:22) roam y 96 
+\i (02:58:22) roam y 96
+\i (02:58:22) roam y 96 
+\i (02:58:22) roam y 96
+\i (02:58:22) roam y 96 
+\i (02:58:22) roam y 96
+\i (02:58:22) roam y 96 
+\i (02:58:22) roam y 96
+\i (02:58:23) roam y 96 
+\i (02:58:23) roam y 96
+\i (02:58:23) roam x -96 
+\i (02:58:23) roam x -96
+\i (02:58:23) roam y 96 
+\i (02:58:23) roam y 96
+\i (02:58:23) roam y 96 
+\i (02:58:23) roam y 96
+\i (02:58:23) roam x -96 
+\i (02:58:23) roam x -96
+\i (02:58:24) roam x -96 
+\i (02:58:24) roam x -96
+\i (02:58:25) save 
+\i (02:58:26) fillin yes 
+\i (02:58:26) generaledit 
+\i (02:58:31) setwindow form.vf_vis
+\i (02:58:31) FORM vf_vis colorview_list Film: assembly_top 
+\i (02:58:32) setwindow pcb
+\i (02:58:32) pick grid 193.445 227.774
+\t (02:58:32) last pick:  193.400  227.800
+\i (02:58:32) roam y -96 
+\i (02:58:32) roam y -96
+\i (02:58:33) roam y -96 
+\i (02:58:33) roam y -96
+\i (02:58:33) roam y -96 
+\i (02:58:33) roam y -96
+\i (02:58:33) roam y -96 
+\i (02:58:33) roam y -96
+\i (02:58:33) roam y -96 
+\i (02:58:33) roam y -96
+\i (02:58:34) roam x 96 
+\i (02:58:34) roam x 96
+\i (02:58:34) roam y 96 
+\i (02:58:34) roam y 96
+\i (02:58:34) roam y 96 
+\i (02:58:34) roam y 96
+\i (02:58:35) roam x 96 
+\i (02:58:35) roam x 96
+\i (02:58:35) roam y 96 
+\i (02:58:35) roam y 96
+\i (02:58:37) zoom in 
+\i (02:58:37) setwindow pcb
+\i (02:58:37) zoom in 216.779 230.584
+\i (02:58:37) trapsize 153
+\i (02:58:37) roam x 96 
+\i (02:58:37) roam x 96
+\i (02:58:38) roam x 96 
+\i (02:58:38) roam x 96
+\i (02:58:38) roam y -96 
+\i (02:58:38) roam y -96
+\i (02:58:39) roam y -96 
+\i (02:58:39) roam y -96
+\i (02:58:39) roam y -96 
+\i (02:58:39) roam y -96
+\i (02:58:39) roam y -96 
+\i (02:58:39) roam y -96
+\i (02:58:39) roam y -96 
+\i (02:58:39) roam y -96
+\i (02:58:39) roam y -96 
+\i (02:58:39) roam y -96
+\i (02:58:39) roam x 96 
+\i (02:58:39) roam x 96
+\i (02:58:39) roam y -96 
+\i (02:58:39) roam y -96
+\i (02:58:40) roam x -96 
+\i (02:58:40) roam x -96
+\i (02:58:40) roam y -96 
+\i (02:58:40) roam y -96
+\i (02:58:41) roam y -96 
+\i (02:58:41) roam y -96
+\i (02:58:41) roam y -96 
+\i (02:58:41) roam y -96
+\i (02:58:41) roam x 96 
+\i (02:58:41) roam x 96
+\i (02:58:41) roam x 96 
+\i (02:58:41) roam x 96
+\i (02:58:41) roam y -96 
+\i (02:58:41) roam y -96
+\i (02:58:41) roam y -96 
+\i (02:58:41) roam y -96
+\i (02:58:42) roam x -96 
+\i (02:58:42) roam x -96
+\i (02:58:42) roam x -96 
+\i (02:58:42) roam x -96
+\i (02:58:42) roam x -96 
+\i (02:58:42) roam x -96
+\i (02:58:42) roam x -96 
+\i (02:58:42) roam x -96
+\i (02:58:42) roam x -96 
+\i (02:58:42) roam x -96
+\i (02:58:42) roam x -96 
+\i (02:58:42) roam x -96
+\i (02:58:42) roam x -96 
+\i (02:58:42) roam x -96
+\i (02:58:42) roam x -96 
+\i (02:58:42) roam x -96
+\i (02:58:43) roam y -96 
+\i (02:58:43) roam y -96
+\i (02:58:43) roam y -96 
+\i (02:58:43) roam y -96
+\i (02:58:43) roam y -96 
+\i (02:58:43) roam y -96
+\i (02:58:43) roam y -96 
+\i (02:58:43) roam y -96
+\i (03:07:54) pick grid 224.018 283.605
+\t (03:07:54) last pick:  224.000  283.600
+\i (03:07:56) status 
+\i (03:07:56) generaledit 
+\i (03:07:58) setwindow form.status
+\i (03:07:58) FORM status drc_update  
+\t (03:07:58) Running DRC, please wait...
+\t (03:07:58) Performing DRC...
+\t (03:07:58) Multithreaded DRC update (4 threads).
+\t (03:07:59) No DRC errors detected.
+\t (03:07:59) DRC done.
+\i (03:08:00) FORM status done  
+\i (03:08:01) setwindow pcb
+\i (03:08:01) pick grid 224.018 284.155
+\t (03:08:01) last pick:  224.000  284.200
+\i (03:08:01) save 
+\i (03:08:02) fillin yes 
+\i (03:08:02) generaledit 
+\i (03:08:08) setwindow form.vf_vis
+\i (03:08:08) FORM vf_vis colorview_list Film: assembly_bottom 
+\i (03:08:08) setwindow pcb
+\i (03:08:08) pick grid 215.344 282.078
+\t (03:08:08) last pick:  215.300  282.100
+\i (03:08:08) zoom out 1 
+\i (03:08:08) setwindow pcb
+\i (03:08:08) zoom out 215.344 282.078
+\i (03:08:08) trapsize 305
+\i (03:08:08) zoom out 1 
+\i (03:08:08) setwindow pcb
+\i (03:08:08) zoom out 215.344 282.078
+\i (03:08:08) trapsize 611
+\i (03:08:08) zoom out 1 
+\i (03:08:08) setwindow pcb
+\i (03:08:08) zoom out 215.344 282.077
+\i (03:08:08) trapsize 1222
+\i (03:08:08) zoom out 1 
+\i (03:08:08) setwindow pcb
+\i (03:08:08) zoom out 215.345 282.078
+\i (03:08:08) trapsize 2443
+\i (03:08:09) zoom in 1 
+\i (03:08:09) setwindow pcb
+\i (03:08:09) zoom in 215.345 282.078
+\i (03:08:09) trapsize 1222
+\i (03:08:09) zoom in 1 
+\i (03:08:09) setwindow pcb
+\i (03:08:09) zoom in 215.345 282.078
+\i (03:08:09) trapsize 611
+\i (03:08:10) zoom fit 
+\i (03:08:10) trapsize 611
+\i (03:08:14) setwindow form.vf_vis
+\i (03:08:14) FORM vf_vis colorview_list Film: silk_top 
+\i (03:08:15) setwindow pcb
+\i (03:08:15) pick grid 266.022 245.206
+\t (03:08:15) last pick:  266.000  245.200
+\i (03:08:15) roam y 96 
+\i (03:08:15) roam y 96
+\i (03:08:16) roam y -96 
+\i (03:08:16) roam y -96
+\i (03:08:17) roam y -96 
+\i (03:08:17) roam y -96
+\i (03:08:18) roam y 96 
+\i (03:08:18) roam y 96
+\i (03:08:21) setwindow form.vf_vis
+\i (03:08:21) FORM vf_vis colorview_list Film: silk_bottom 
+\i (03:08:22) setwindow pcb
+\i (03:08:22) pick grid 276.040 249.031
+\t (03:08:22) last pick:  276.000  249.000
+\i (03:08:22) roam y 96 
+\i (03:08:22) roam y 96
+\i (03:08:23) roam y 96 
+\i (03:08:23) roam y 96
+\i (03:08:23) roam y -96 
+\i (03:08:23) roam y -96
+\i (03:08:23) roam y -96 
+\i (03:08:23) roam y -96
+\i (03:08:24) roam y -96 
+\i (03:08:24) roam y -96
+\i (03:08:24) roam y 96 
+\i (03:08:24) roam y 96
+\i (03:08:24) roam y 96 
+\i (03:08:25) roam y 96
+\i (03:09:19) setwindow form.vf_vis
+\i (03:09:19) FORM vf_vis colorview_list Film: drill 
+\i (03:09:20) setwindow pcb
+\i (03:09:20) zoom out 1 
+\i (03:09:20) setwindow pcb
+\i (03:09:20) zoom out 199.563 233.638
+\i (03:09:20) trapsize 1222
+\i (03:09:21) zoom out 1 
+\i (03:09:21) setwindow pcb
+\i (03:09:21) zoom out 199.564 233.638
+\i (03:09:21) trapsize 2443
+\i (03:09:25) ncdrill legend 
+\i (03:09:27) setwindow form.nc_drilllegend
+\i (03:09:27) FORM nc_drilllegend done  
+   (03:09:27) Loading mfg.cxt 
+\i (03:09:29) setwindow pcb
+\i (03:09:29) pick grid 199.564 190.635
+\t (03:09:29) last pick:  199.600  190.600
+\t (03:09:29) NC Drill Legend generation successful
+\i (03:09:29) done 
+\i (03:09:29) generaledit 
+\i (03:09:31) save 
+\i (03:09:32) fillin yes 
+\i (03:09:32) generaledit 
+\i (03:09:45) nctape_full 
+\i (03:09:49) setwindow form.nc_drill
+\i (03:09:49) FORM nc_drill execute  
+\w (03:09:49) WARNING(SPMHMF-269): Design contains slot holes that can not be drilled. They can be processed by NC Route instead.
+\t (03:09:49) Starting NC Drill...
+\i (03:09:52) FORM nc_drill close  
+\i (03:09:53) setwindow pcb
+\i (03:09:53) generaledit 
+\i (03:09:56) artwork 
+\i (03:09:58) setwindow form.film_control
+\i (03:09:58) FORM film_control general_parameters  
+\i (03:10:03) FORM film_control film_control  
+\i (03:10:04) FORM film_control filmtree 'MULTISEL YES' Bottom 
+\i (03:10:05) FORM film_control filmtree 'MULTISEL YES' Layer2 
+\i (03:10:05) FORM film_control filmtree  Layer2 
+\i (03:10:05) FORM film_control filmtree 'MULTISEL YES' Layer3 
+\i (03:10:05) FORM film_control filmtree  Layer3 
+\i (03:10:07) FORM film_control filmtree 'MULTISEL YES' Top 
+\i (03:10:07) FORM film_control filmtree  Top 
+\i (03:10:08) FORM film_control filmtree 'MULTISEL YES' assembly_bottom 
+\i (03:10:08) FORM film_control filmtree  assembly_bottom 
+\i (03:10:09) FORM film_control filmtree 'MULTISEL YES' assembly_top 
+\i (03:10:09) FORM film_control filmtree  assembly_top 
+\i (03:10:10) FORM film_control filmtree 'MULTISEL YES' drill 
+\i (03:10:10) FORM film_control filmtree  drill 
+\i (03:10:10) FORM film_control filmtree 'MULTISEL YES' paste_bottom 
+\i (03:10:10) FORM film_control filmtree  paste_bottom 
+\i (03:10:11) FORM film_control filmtree 'MULTISEL YES' paste_top 
+\i (03:10:11) FORM film_control filmtree  paste_top 
+\i (03:10:12) FORM film_control filmtree 'MULTISEL YES' silk_bottom 
+\i (03:10:12) FORM film_control filmtree  silk_bottom 
+\i (03:10:13) FORM film_control filmtree 'MULTISEL YES' silk_top 
+\i (03:10:13) FORM film_control filmtree  silk_top 
+\i (03:10:14) FORM film_control filmtree 'MULTISEL YES' soldmask_bottom 
+\i (03:10:14) FORM film_control filmtree  soldmask_bottom 
+\i (03:10:14) FORM film_control filmtree 'MULTISEL YES' soldmask_top 
+\i (03:10:14) FORM film_control filmtree  soldmask_top 
+\i (03:10:15) FORM film_control create  
+\t (03:10:15) Checking db records
+\t (03:10:15)     checking for orphans...
+\t (03:10:15)     Checked  20 percent
+\t (03:10:15)     Checked  41 percent
+\t (03:10:15)     Checked  61 percent
+\t (03:10:15)     Checked  82 percent
+\t (03:10:16)     Checked 100 percent
+\t (03:10:16) Done dbdoctor.
+\t (03:10:16) Starting Create artwork films...
+\w (03:10:17) WARNING(SPMHGE-269): artwork had warnings, use Viewlog to review the log file.
+\w (03:10:18) Artwork generated with warnings.
+\i (03:10:19) setwindow pcb
+\i (03:10:19) zoom out 1 
+\i (03:10:19) setwindow pcb
+\i (03:10:19) zoom out 342.256 181.839
+\i (03:10:19) trapsize 4887
+\i (03:10:19) zoom out 1 
+\i (03:10:19) setwindow pcb
+\i (03:10:19) zoom out 427.764 181.839
+\i (03:10:19) trapsize 9773
+\i (03:10:19) zoom out 1 
+\i (03:10:19) setwindow pcb
+\i (03:10:19) zoom out 955.527 387.478
+\i (03:10:19) trapsize 19547
+\i (03:10:19) zoom out 1 
+\i (03:10:19) setwindow pcb
+\i (03:10:19) zoom out 2011.055 -625.047
+\i (03:10:19) trapsize 39094
+\i (03:10:19) zoom out 1 
+\i (03:10:19) setwindow pcb
+\i (03:10:19) zoom out 4122.109 -2650.095
+\i (03:10:19) trapsize 76375
+\i (03:10:19) zoom out 1 
+\i (03:10:19) setwindow pcb
+\i (03:10:19) zoom out 8148.473 -6512.422
+\i (03:10:19) trapsize 76375
+\i (03:10:19) zoom out 1 
+\i (03:10:19) setwindow pcb
+\i (03:10:19) zoom out 8148.473 -6512.422
+\i (03:10:19) trapsize 76375
+\i (03:10:22) setwindow text
+\i (03:10:22) close 
+\i (03:10:23) setwindow form.film_control
+\i (03:10:23) FORM film_control ok  
+\i (03:10:23) setwindow pcb
+\i (03:10:23) generaledit 
+\t (03:10:24) last pick:  1213.646  -2693.685
+\w (03:10:24) WARNING(SPMHUT-40): Pick is outside the extent of the drawing ... pick again.
+\i (03:10:25) zoom fit 
+\i (03:10:26) trapsize 611
+\i (03:10:27) save 
+\i (03:10:28) fillin yes 
+   (03:10:28) Loading signal.cxt 
+\i (03:10:29) generaledit 
+\i (03:10:34) plctxt out 
+\i (03:10:36) setwindow form.plctxt
+\i (03:10:36) FORM plctxt body_center YES 
+\i (03:10:37) FORM plctxt execute  
+\t (03:10:37) Starting Place symbols by text file...
+\i (03:10:39) FORM plctxt cancel  
+\i (03:10:39) setwindow pcb
+\i (03:10:39) generaledit 
+\i (03:10:45) pdf out 
+\i (03:10:52) setwindow form.pdf_out
+\i (03:10:52) FORM pdf_out filename Layout 
+\i (03:10:52) FORM pdf_out pdftree 'MULTISEL YES' Top 
+\i (03:10:52) FORM pdf_out pdftree  Top 
+\i (03:10:52) FORM pdf_out pdftree 'MULTISEL YES' Layer2 
+\i (03:10:52) FORM pdf_out pdftree  Layer2 
+\i (03:10:53) FORM pdf_out pdftree 'MULTISEL YES' Layer3 
+\i (03:10:53) FORM pdf_out pdftree  Layer3 
+\i (03:10:54) FORM pdf_out pdftree 'MULTISEL YES' Bottom 
+\i (03:10:54) FORM pdf_out pdftree  Bottom 
+\i (03:10:56) FORM pdf_out pdftree 'MULTISEL YES' soldmask_top 
+\i (03:10:56) FORM pdf_out pdftree  soldmask_top 
+\i (03:10:56) FORM pdf_out pdftree 'MULTISEL YES' soldmask_bottom 
+\i (03:10:56) FORM pdf_out pdftree  soldmask_bottom 
+\i (03:10:57) FORM pdf_out pdftree 'MULTISEL YES' silk_top 
+\i (03:10:57) FORM pdf_out pdftree  silk_top 
+\i (03:10:58) FORM pdf_out pdftree 'MULTISEL YES' silk_bottom 
+\i (03:10:58) FORM pdf_out pdftree  silk_bottom 
+\i (03:11:00) FORM pdf_out pdftree 'MULTISEL YES' paste_top 
+\i (03:11:00) FORM pdf_out pdftree  paste_top 
+\i (03:11:01) FORM pdf_out pdftree 'MULTISEL YES' paste_bottom 
+\i (03:11:01) FORM pdf_out pdftree  paste_bottom 
+\i (03:11:02) FORM pdf_out export  
+\t (03:11:02) Starting Exporting PDF File...
+\t (03:11:08) PDF output completed.
+\i (03:11:51) FORM pdf_out filename Assy 
+\i (03:11:51) FORM pdf_out clearall  
+\i (03:11:52) FORM pdf_out pdftree 'MULTISEL YES' assembly_top 
+\i (03:11:52) FORM pdf_out pdftree  assembly_top 
+\i (03:11:53) FORM pdf_out pdftree 'MULTISEL YES' assembly_bottom_mirrored 
+\i (03:11:53) FORM pdf_out pdftree  assembly_bottom_mirrored 
+\i (03:11:58) FORM pdf_out export  
+\t (03:11:58) Starting Exporting PDF File...
+\t (03:12:02) PDF output completed.
+\i (03:12:16) FORM pdf_out filename Mech 
+\i (03:12:16) FORM pdf_out clearall  
+\i (03:12:18) FORM pdf_out pdftree 'MULTISEL YES' drill 
+\i (03:12:18) FORM pdf_out pdftree  drill 
+\i (03:12:19) FORM pdf_out export  
+\t (03:12:19) Starting Exporting PDF File...
+\t (03:12:22) PDF output completed.
+\i (03:12:39) FORM pdf_out cancel  
+\i (03:12:39) setwindow pcb
+\i (03:12:39) generaledit 
+\i (03:12:40) save 
+\i (03:12:41) fillin yes 
+\i (03:12:41) generaledit 
+\i (03:12:52) exit 
+\t (03:12:53)     Journal end - Wed Jan 20 15:53:09 2016
