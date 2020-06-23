@@ -42,8 +42,12 @@ while (n <= Ns)
     end
 
     r_array(1,n) = diffq;
-    r_array(2,n) = predsample;
     
+    if(predsample < 0)
+        r_array(2,n) = 0;
+   else
+        r_array(2,n) = predsample;
+    end
     if (predsample > 32767)
         predsample = 32767;
     elseif (predsample < -32768)%32768
