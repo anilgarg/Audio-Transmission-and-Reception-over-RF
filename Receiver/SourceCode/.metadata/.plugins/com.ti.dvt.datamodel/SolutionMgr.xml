@@ -14,7 +14,7 @@
  <void id="ArrayList0" method="get">
   <object idref="SolutionManager$PersistState0"/>
   <void method="add">
-   <string>E:\iitb_study\mtp\cc1310\software\MTP_Phase_2 _work\Github\Receiver\SourceCode\dvt\AnalysisSolutionsTemp\AnalysisSolution1592294732703\null</string>
+   <string>E:\iitb_study\mtp\cc1310\software\MTP_Phase_2 _work\Github\Audio-Transmission-and-Reception-over-RF\Receiver\SourceCode\dvt\AnalysisSolutionsTemp\AnalysisSolution1593069482811\null</string>
   </void>
   <void method="add">
    <string>C:\ti\ccs901\ccs\ccs_base\dvt_4.1.0.201902061603\CodeGen\solutions\CodeGenCoverage</string>

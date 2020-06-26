@@ -34,6 +34,12 @@
 
 /* Undefine to remove async mode */
 #define RFEASYLINKRX_ASYNC
+    #define b0  1000
+    #define b1  -1999
+    #define b2  1000
+    #define a1  -1980
+    #define a2  986
+    #define gain 993
 
 /***** Defines global variable and function *****/
 int16_t  int16_prevSample = 0,int16_prevSampleForRF = 0,counter =0;
@@ -41,8 +47,11 @@ unsigned short int temp = 0x7fff, Timer_counter = 0,SendDataToDACTrigger =0;
 signed short int temp_count = 0;
 unsigned char TxBufferToDACSampleCounter = 0,RxBufferCounter =0;
 
+unsigned int uisampleVal = 0;
 extern void ADPCMDecoder(uint8_t * p_ui8_inputsample,uint16_t * p_ui16_outsample,uint16_t prevSample, uint8_t buffer_size);
 extern void init_adpcm(void);
+unsigned int IIR_Filter(unsigned int uins);
+unsigned int IIR_Filter_Lowpass_butterworth(unsigned int uins);
 
 /* Pin driver handle */
 static PIN_Handle pinHandle;
@@ -261,7 +270,9 @@ void rxTimeoutCb(GPTimerCC26XX_Handle handle,
     }
     if(SendDataToDACTrigger ==1) // send data sample to DAC
     {
-        SPI_SEND_TO_DMA((TxBufferToDAC[TxBufferToDACSampleCounter++]) | 0x7000);
+        uisampleVal = IIR_Filter_Lowpass_butterworth(TxBufferToDAC[TxBufferToDACSampleCounter]); //TxBufferToDAC[TxBufferToDACSampleCounter];//IIR_Filter(TxBufferToDAC[TxBufferToDACSampleCounter]);
+        SPI_SEND_TO_DMA((uisampleVal) | 0x7000);
+        TxBufferToDACSampleCounter++;
         if(TxBufferToDACSampleCounter >= 100)
         {
         TxBufferToDACSampleCounter = 0;
@@ -271,6 +282,32 @@ void rxTimeoutCb(GPTimerCC26XX_Handle handle,
 
 }
 
+
+unsigned int IIR_Filter(unsigned int uins)
+{
+    static long nsm1 = 0, nsm2= 0, ysn = 0 , ysnm1 = 0 , ysnm2 = 0;
+  //  float b0,b1,b2,a1,a2;
+    ysn = b0*(long)uins + b1*nsm1 + b2*nsm2 -a1*ysnm1 - a2*ysnm2;
+    ysn = (ysn*gain)/1000000;
+
+    nsm2 = nsm1;
+    nsm1 = uins;
+    ysnm2 = ysnm1;
+    ysnm1 = ysn;
+
+    return (unsigned int)(ysn);
+
+}
+
+/* first order FIR filter with cut off frequency 2000 Hz and sampling 8000SPS */
+unsigned int IIR_Filter_Lowpass_butterworth(unsigned int uins)
+{
+    static long nsm1 = 0, ysn = 0;
+    ysn = (uins +nsm1)>>1;
+    nsm1 = ysn;
+    return (unsigned int)(ysn);
+
+}
 
 
 void SPI_FN(void)

@@ -26,9 +26,9 @@ easylink/EasyLink_nortos.obj: C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/d
 easylink/EasyLink_nortos.obj: C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/devices/cc13x0/driverlib/rf_ble_cmd.h
 easylink/EasyLink_nortos.obj: C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/stdlib.h
 easylink/EasyLink_nortos.obj: ../easylink/easylink_config.h
-easylink/EasyLink_nortos.obj: E:/iitb_study/mtp/cc1310/software/MTP_Phase_2//\ _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0/Board.h
+easylink/EasyLink_nortos.obj: E:/iitb_study/mtp/cc1310/software/MTP_Phase_2//\ _work/Github/Audio-Transmission-and-Reception-over-RF/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0/Board.h
 easylink/EasyLink_nortos.obj: C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/drivers/Board.h
-easylink/EasyLink_nortos.obj: E:/iitb_study/mtp/cc1310/software/MTP_Phase_2//\ _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0/CC1310_LAUNCHXL.h
+easylink/EasyLink_nortos.obj: E:/iitb_study/mtp/cc1310/software/MTP_Phase_2//\ _work/Github/Audio-Transmission-and-Reception-over-RF/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0/CC1310_LAUNCHXL.h
 easylink/EasyLink_nortos.obj: C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/drivers/PIN.h
 easylink/EasyLink_nortos.obj: C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/devices/cc13x0/driverlib/ioc.h
 easylink/EasyLink_nortos.obj: C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/devices/cc13x0/driverlib/../inc/hw_types.h
@@ -45,8 +45,8 @@ easylink/EasyLink_nortos.obj: C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/d
 easylink/EasyLink_nortos.obj: C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/devices/cc13x0/driverlib/gpio.h
 easylink/EasyLink_nortos.obj: C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/devices/cc13x0/driverlib/../inc/hw_gpio.h
 easylink/EasyLink_nortos.obj: C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/limits.h
-easylink/EasyLink_nortos.obj: E:/iitb_study/mtp/cc1310/software/MTP_Phase_2//\ _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0/smartrf_settings/smartrf_settings.h
-easylink/EasyLink_nortos.obj: E:/iitb_study/mtp/cc1310/software/MTP_Phase_2//\ _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0/smartrf_settings/smartrf_settings_predefined.h
+easylink/EasyLink_nortos.obj: E:/iitb_study/mtp/cc1310/software/MTP_Phase_2//\ _work/Github/Audio-Transmission-and-Reception-over-RF/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0/smartrf_settings/smartrf_settings.h
+easylink/EasyLink_nortos.obj: E:/iitb_study/mtp/cc1310/software/MTP_Phase_2//\ _work/Github/Audio-Transmission-and-Reception-over-RF/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0/smartrf_settings/smartrf_settings_predefined.h
 easylink/EasyLink_nortos.obj: C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/devices/cc13x0/driverlib/rf_hs_mailbox.h
 easylink/EasyLink_nortos.obj: C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/devices/cc13x0/driverlib/rf_hs_cmd.h
 easylink/EasyLink_nortos.obj: C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/devices/cc13x0/driverlib/rf_data_entry.h
@@ -82,9 +82,9 @@ C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/devices/cc13x0/driverlib/rf_pro
 C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/devices/cc13x0/driverlib/rf_ble_cmd.h: 
 C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/stdlib.h: 
 ../easylink/easylink_config.h: 
-E:/iitb_study/mtp/cc1310/software/MTP_Phase_2//\ _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0/Board.h: 
+E:/iitb_study/mtp/cc1310/software/MTP_Phase_2//\ _work/Github/Audio-Transmission-and-Reception-over-RF/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0/Board.h: 
 C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/drivers/Board.h: 
-E:/iitb_study/mtp/cc1310/software/MTP_Phase_2//\ _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0/CC1310_LAUNCHXL.h: 
+E:/iitb_study/mtp/cc1310/software/MTP_Phase_2//\ _work/Github/Audio-Transmission-and-Reception-over-RF/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0/CC1310_LAUNCHXL.h: 
 C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/drivers/PIN.h: 
 C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/devices/cc13x0/driverlib/ioc.h: 
 C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/devices/cc13x0/driverlib/../inc/hw_types.h: 
@@ -101,8 +101,8 @@ C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/devices/cc13x0/driverlib/../dri
 C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/devices/cc13x0/driverlib/gpio.h: 
 C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/devices/cc13x0/driverlib/../inc/hw_gpio.h: 
 C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.2.LTS/include/limits.h: 
-E:/iitb_study/mtp/cc1310/software/MTP_Phase_2//\ _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0/smartrf_settings/smartrf_settings.h: 
-E:/iitb_study/mtp/cc1310/software/MTP_Phase_2//\ _work/Github/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0/smartrf_settings/smartrf_settings_predefined.h: 
+E:/iitb_study/mtp/cc1310/software/MTP_Phase_2//\ _work/Github/Audio-Transmission-and-Reception-over-RF/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0/smartrf_settings/smartrf_settings.h: 
+E:/iitb_study/mtp/cc1310/software/MTP_Phase_2//\ _work/Github/Audio-Transmission-and-Reception-over-RF/Receiver/SourceCode/rfEasyLinkRx_868MHz_Final_V0/smartrf_settings/smartrf_settings_predefined.h: 
 C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/devices/cc13x0/driverlib/rf_hs_mailbox.h: 
 C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/devices/cc13x0/driverlib/rf_hs_cmd.h: 
 C:/ti/simplelink_cc13x0_sdk_3_20_00_23/source/ti/devices/cc13x0/driverlib/rf_data_entry.h: 
